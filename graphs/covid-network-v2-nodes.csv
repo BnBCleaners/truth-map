@@ -1,0 +1,19 @@
+id,label,type,group,description,confidence
+fauci,Anthony Fauci,Person,Government,"Former NIAID Director. Oversaw grants to EcoHealth. Key participant in early 2020 calls and public messaging.",High
+daszak,Peter Daszak,Person,Organization,"President of EcoHealth Alliance. PI on NIH bat-coronavirus grant with WIV subawards. Organized early Lancet letter.",High
+shi,Shi Zhengli,Person,Lab,"Leading coronavirus researcher at Wuhan Institute of Virology. Bat CoV sampling and experimental work.",High
+ecohealth,EcoHealth Alliance,Organization,Organization,"U.S. nonprofit that received NIH funding and subawarded to WIV. Later debarred.",High
+wiv,Wuhan Institute of Virology,Organization,Lab,"Chinese lab that received U.S. subawards via EcoHealth for bat coronavirus research. BSL-4 facility.",High
+nih,NIH / NIAID,Organization,Government,"Primary U.S. funder of the EcoHealth–WIV bat coronavirus work under Fauci.",High
+farrar,Jeremy Farrar,Person,Organization,"Then Director of Wellcome Trust. Participant in early Feb 2020 calls on origins.",High
+andersen,Kristian Andersen,Person,Science,"Scripps researcher. Lead author of Proximal Origin paper. Private communications showed higher lab-origin probability than published paper.",High
+collins,Francis Collins,Person,Government,"Former NIH Director. Participant in early 2020 calls.",High
+holmes,Edward Holmes,Person,Science,"Evolutionary biologist (Sydney). Participant on 31 Jan / 1 Feb 2020 calls; co-author Proximal Origin.",High
+drosten,Christian Drosten,Person,Science,"German virologist. Participant on 1 Feb 2020 call; sided with natural-origin view on that call.",High
+fouchier,Ron Fouchier,Person,Science,"Dutch virologist (Erasmus). Participant on 1 Feb 2020 call; argued natural origin and against pursuing lab scenario. H5N1 GOF researcher.",High
+garry,Robert Garry,Person,Science,"Tulane virologist. Participant on 1 Feb 2020 call; co-author Proximal Origin.",High
+rambaut,Andrew Rambaut,Person,Science,"Edinburgh evolutionary biologist. Participant on 1 Feb 2020 call; co-author Proximal Origin.",High
+wellcome,Wellcome Trust,Organization,Organization,"Major UK biomedical foundation. Jeremy Farrar was Director during the early 2020 origins discussions.",High
+lancet,Lancet letter (2020),Event,Science,"Early letter organized by Peter Daszak that helped frame lab-origin discussion as fringe / conspiracy territory.",High
+proximal_origin,Proximal Origin paper (2020),Event,Science,"Nature Medicine paper (Mar 2020) concluding virus not laboratory construct. Same scientist cluster as 1 Feb call.",High
+fauci_diary,Fauci Diary (Paul release 2026),Event,Document,"Private contemporaneous notes (esp. 26 Jan–1 Feb 2020 and 2021 defensiveness entries). Primary evidence of knowledge and framing.",High
