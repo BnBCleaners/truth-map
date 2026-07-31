@@ -1,57 +1,53 @@
-<div class="tm-hero" markdown>
-
-# Truth Map
-
-<p class="tagline">A neutral research instrument for mapping people, organizations, events, claims, and financial flows — so you can see what is solidly known, what is still contested, and what is unsupported.</p>
-
-<p class="ai-note">Research structure and quality gatekeeping assisted by Grok · Primary sources remain human-verified</p>
-
+<div class="tm-hero">
+  <h1>Truth Map</h1>
+  <p class="tagline">A neutral research instrument for mapping people, organizations, events, claims, and financial flows — so you can see what is solidly known, what is still contested, and what is unsupported.</p>
+  <p class="ai-note">Research structure and quality gatekeeping assisted by Grok · Primary sources remain human-verified</p>
 </div>
 
 <div class="tm-section-label">Start here</div>
 
-<div class="tm-card-grid" markdown>
+<div class="tm-card-grid">
 
-<div class="tm-card" markdown>
-### [Claims](claims/index.md)
-Scored truth propositions with clear confidence labels and sources on both sides.
-<div class="meta">Confirmed · Supported · Contested · Unsupported</div>
+<div class="tm-card">
+  <h3><a href="claims/index.md">Claims</a></h3>
+  <p>Scored truth propositions with clear confidence labels and sources on both sides.</p>
+  <div class="meta">Confirmed · Supported · Contested · Unsupported</div>
 </div>
 
-<div class="tm-card" markdown>
-### [Cases](cases/index.md)
-Event reconstructions with timelines, actors, and primary documents.
-<div class="meta">Fauci Diary · Lancet Letter · Proximal Origin · more</div>
+<div class="tm-card">
+  <h3><a href="cases/index.md">Cases</a></h3>
+  <p>Event reconstructions with timelines, actors, and primary documents.</p>
+  <div class="meta">Fauci Diary · Lancet Letter · Proximal Origin · more</div>
 </div>
 
-<div class="tm-card" markdown>
-### [People](people/index.md)
-Entity cards for the early-origins scientist cluster and key actors.
-<div class="meta">Andersen · Farrar · Daszak · Holmes · others</div>
+<div class="tm-card">
+  <h3><a href="people/index.md">People</a></h3>
+  <p>Entity cards for the early-origins scientist cluster and key actors.</p>
+  <div class="meta">Andersen · Farrar · Daszak · Holmes · others</div>
 </div>
 
-<div class="tm-card" markdown>
-### [Facilities](facilities/index.md)
-High-containment labs — WIV plus U.S. comparative nodes.
-<div class="meta">WIV · USAMRIID · Galveston · NEIDL · CDC</div>
+<div class="tm-card">
+  <h3><a href="facilities/index.md">Facilities</a></h3>
+  <p>High-containment labs — WIV plus U.S. comparative nodes.</p>
+  <div class="meta">WIV · USAMRIID · Galveston · NEIDL · CDC</div>
 </div>
 
-<div class="tm-card" markdown>
-### [Timeline](timeline.md)
-Chronological spine anchored on the Fauci diary and early-2020 calls.
-<div class="meta">Primary-source driven</div>
+<div class="tm-card">
+  <h3><a href="timeline.md">Timeline</a></h3>
+  <p>Chronological spine anchored on the Fauci diary and early-2020 calls.</p>
+  <div class="meta">Primary-source driven</div>
 </div>
 
-<div class="tm-card" markdown>
-### [Map](map.md)
-Interactive geographic view of labs, organizations, and early sites.
-<div class="meta">Leaflet · Kepler.gl ready</div>
+<div class="tm-card">
+  <h3><a href="map.md">Map</a></h3>
+  <p>Interactive geographic view of labs, organizations, and early sites.</p>
+  <div class="meta">Leaflet · Kepler.gl ready</div>
 </div>
 
-<div class="tm-card" markdown>
-### [Network Graph](network.md)
-Interactive relationship graph — funding, calls, authorship, documents.
-<div class="meta">vis-network</div>
+<div class="tm-card">
+  <h3><a href="network.md">Network Graph</a></h3>
+  <p>Interactive relationship graph — funding, calls, authorship, documents.</p>
+  <div class="meta">vis-network</div>
 </div>
 
 </div>
