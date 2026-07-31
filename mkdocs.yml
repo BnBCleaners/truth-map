@@ -1,0 +1,94 @@
+site_name: Truth Map
+site_description: Neutral, evidence-based research instrument — Claims, Cases, people, organizations, facilities, and timelines
+site_url: https://bnbcleaners.github.io/truth-map/
+repo_url: https://github.com/BnBCleaners/truth-map
+repo_name: BnBCleaners/truth-map
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - toc.follow
+  icon:
+    repo: fontawesome/brands/github
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - How this works:
+    - Purpose & Rules: about/purpose.md
+    - Architecture: about/architecture.md
+    - How to contribute: about/contributing.md
+  - Claims:
+    - Overview: claims/index.md
+    - C-01 Laptop / Russian disinfo: claims/C-01-laptop-russian-disinfo.md
+    - C-02 Lab-leak = conspiracy theory: claims/C-02-lab-leak-is-conspiracy-theory.md
+    - C-03 No GOF at WIV: claims/C-03-no-gain-of-function-at-wiv.md
+  - Cases:
+    - Overview: cases/index.md
+    - Fauci Diary (2026): cases/fauci-diary.md
+    - Lancet Letter (2020): cases/lancet-letter.md
+    - Proximal Origin (2020): cases/proximal-origin.md
+    - Fauci GOF Testimony (2021): cases/fauci-gof-testimony.md
+  - People:
+    - Early-origins cluster: people/index.md
+    - Kristian Andersen: people/kristian-andersen.md
+    - Jeremy Farrar: people/jeremy-farrar.md
+    - Edward Holmes: people/edward-holmes.md
+    - Robert Garry: people/robert-garry.md
+    - Andrew Rambaut: people/andrew-rambaut.md
+    - Ron Fouchier: people/ron-fouchier.md
+    - Christian Drosten: people/christian-drosten.md
+    - Peter Daszak: people/peter-daszak.md
+  - Organizations:
+    - EcoHealth Alliance: organizations/ecohealth-alliance.md
+    - Wellcome Trust: organizations/wellcome-trust.md
+  - Facilities:
+    - Overview: facilities/index.md
+    - Wuhan Institute of Virology: facilities/wuhan-institute-of-virology.md
+    - USAMRIID / Fort Detrick: facilities/usamriid-fort-detrick.md
+    - Galveston National Laboratory: facilities/galveston-national-laboratory.md
+    - NEIDL: facilities/neidl-boston.md
+    - CDC Atlanta: facilities/cdc-atlanta-high-containment.md
+    - NIAID Intramural Cluster: facilities/niaid-intramural-high-containment.md
+  - Timeline: timeline.md
+  - Map & Network:
+    - Map data: map.md
+    - Network graph: network.md
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/BnBCleaners/truth-map
