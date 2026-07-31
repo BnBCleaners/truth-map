@@ -1,15 +1,10 @@
 # Claims
 
-Scored truth propositions. Every claim carries a confidence label and sources on both sides.
+Tightly scoped factual propositions that receive a single confidence label.
+
+For complex public subjects that contain many distinct factual questions, see **[Topics](../topics/)** instead. Topics hold multiple scored Angles so the sifting stays visible.
 
 <div class="tm-card-grid">
-
-<div class="tm-card">
-  <h3><a href="C-01-laptop-russian-disinfo/">C-01 — Hunter Biden laptop</a></h3>
-  <span class="badge badge-unsupported">Unsupported</span>
-  <p>Claim that reporting on the laptop was Russian disinformation.</p>
-  <div class="meta">Primary sources · Timeline · Counter-evidence</div>
-</div>
 
 <div class="tm-card">
   <h3><a href="C-02-lab-leak-is-conspiracy-theory/">C-02 — Lab-leak = conspiracy theory</a></h3>
@@ -33,3 +28,7 @@ Scored truth propositions. Every claim carries a confidence label and sources on
 <span class="badge badge-supported">Supported</span>&nbsp;
 <span class="badge badge-contested">Contested</span>&nbsp;
 <span class="badge badge-unsupported">Unsupported / Misleading</span>
+
+### Note on C-01
+
+The original single claim about the Hunter Biden laptop (“reporting was Russian disinformation”) has been expanded into a multi-angle **Topic**. See [Hunter Biden Laptop](../topics/hunter-biden-laptop/).

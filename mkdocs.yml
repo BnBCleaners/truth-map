@@ -47,9 +47,11 @@ nav:
     - How to contribute: about/contributing.md
     - Gatekeeping & Moderation: about/gatekeeping.md
     - Fact-check checklist: about/fact-check-checklist.md
+  - Topics:
+    - Overview: topics/index.md
+    - Hunter Biden Laptop: topics/hunter-biden-laptop.md
   - Claims:
     - Overview: claims/index.md
-    - C-01 Laptop / Russian disinfo: claims/C-01-laptop-russian-disinfo.md
     - C-02 Lab-leak = conspiracy theory: claims/C-02-lab-leak-is-conspiracy-theory.md
     - C-03 No GOF at WIV: claims/C-03-no-gain-of-function-at-wiv.md
   - Cases:

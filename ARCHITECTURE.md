@@ -17,10 +17,26 @@
 7. **Family & Genealogy Rule**  
    Include relatives of tracked public figures only when the relative (a) holds a relevant public office or senior public role, or (b) has a documented operational or beneficial role in an NGO, foundation, company, trust, or similar vehicle that is itself material to the networks under study. Primary sources required. Private family members without such links are out of scope.
 
-## Claim vs Case (locked)
-- **Claim** = specific proposition scored for truth value (Confirmed / Supported / Contested / Unsupported). Lives in `claims/`.
-- **Case / Event** = real-world occurrence or bounded process we reconstruct (timeline, actors, documents). Lives in `events/.../CASE.md`.
-- Supporting nodes (people, orgs, facilities) are created or expanded **only when required** by an active Claim or Case.
+## Core units (locked)
+
+### Claim (atomic)
+A tightly scoped factual proposition that receives a single confidence label.  
+Used when the proposition really is atomic.
+
+### Topic (multi-angle)
+A public subject that people treat as “one claim” but that actually contains multiple distinct factual questions.  
+A Topic does **not** receive an overall score. It exists to hold and surface the individual Angles.
+
+### Angle
+A scored claim that lives under a Topic. Each Angle follows the same strict labeling rules as a standalone Claim.
+
+### Case / Event
+A real-world occurrence or bounded process we reconstruct (timeline, actors, documents).
+
+Supporting nodes (people, orgs, facilities) are created or expanded **only when required** by an active Claim, Angle, or Case.
+
+## Why Topics exist
+Most important public arguments are not single propositions. They are bundles of 8–20 distinct factual questions. Giving the whole bundle one label hides the actual sifting work. The Topic → Angles model makes the sifting visible while preserving the evidence discipline.
 
 ## Research Depth Levels
 - **Lev1** — single-stage full card
@@ -35,7 +51,8 @@ truth-map/
 ├── CONTRIBUTING.md
 ├── ARCHITECTURE.md
 ├── TASKS.md
-├── claims/
+├── claims/          # atomic claims
+├── topics/          # multi-angle subjects (new)
 ├── events/
 ├── entities/
 ├── facilities/

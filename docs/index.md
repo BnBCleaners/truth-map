@@ -9,8 +9,14 @@
 <div class="tm-card-grid">
 
 <div class="tm-card">
+  <h3><a href="topics/">Topics</a></h3>
+  <p>Complex public subjects broken into multiple scored angles so the real sifting stays visible.</p>
+  <div class="meta">Hunter Biden Laptop · more coming</div>
+</div>
+
+<div class="tm-card">
   <h3><a href="claims/">Claims</a></h3>
-  <p>Scored truth propositions with clear confidence labels and sources on both sides.</p>
+  <p>Tightly scoped factual propositions with a single confidence label.</p>
   <div class="meta">Confirmed · Supported · Contested · Unsupported</div>
 </div>
 
@@ -66,8 +72,8 @@
 
 ### How the knowledge base grows
 
-**Claim / Case-driven only.**  
-People, organizations, and facilities expand only when an active Claim or Case requires them. Supporting data is built as needed — not collected for its own sake.
+**Claim / Topic / Case-driven only.**  
+People, organizations, and facilities expand only when an active Claim, Angle, or Case requires them. Supporting data is built as needed — not collected for its own sake.
 
 See [Purpose & Rules](about/purpose.md) and [Architecture](about/architecture.md) for the full design.
 
