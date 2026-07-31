@@ -1,0 +1,30 @@
+name: Link health check
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  linkcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check links in markdown
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --verbose --no-progress './**/*.md' --exclude-mail --max-concurrency 4
+          fail: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Create issue on failures
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            // Optional: open a tracking issue when many links fail
+            console.log('Link check completed with failures — review Actions log');
