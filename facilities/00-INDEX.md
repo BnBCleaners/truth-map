@@ -5,9 +5,9 @@ High-containment and dual-use laboratory nodes tracked because of clear document
 | Facility | Type | Why tracked | Card |
 |----------|------|-------------|------|
 | Wuhan Institute of Virology | BSL-4 / high-containment lab | Central origins node; EcoHealth/NIH subawards; DEFUSE | [wuhan-institute-of-virology.md](wuhan-institute-of-virology.md) |
-| USAMRIID / Fort Detrick | U.S. Army BSL-4 | Comparative U.S. military high-containment node | (pending full public push) |
-| Galveston National Laboratory | NIAID NBL / BSL-4 | Documented WIV collaboration/training | (pending) |
-| NEIDL (Boston University) | NIAID NBL / BSL-4 | Second NIAID national lab | (pending) |
+| USAMRIID / Fort Detrick | U.S. Army BSL-4 | Comparative U.S. military high-containment node | [usamriid-fort-detrick.md](usamriid-fort-detrick.md) |
+| Galveston National Laboratory | NIAID NBL / BSL-4 | Documented WIV collaboration/training | [galveston-national-laboratory.md](galveston-national-laboratory.md) |
+| NEIDL (Boston University) | NIAID NBL / BSL-4 | Second NIAID national lab | (pending full public push) |
 | CDC Atlanta high-containment | CDC | U.S. public-health high-containment | (pending) |
 | NIAID intramural cluster | IRF-Frederick + RML + Bethesda | NIH intramural high-containment | (pending) |
 | Ukraine US-funded BSL-3 network | Multiple sites | Gabbard declass / BTRP documentation | (pending) |
