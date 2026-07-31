@@ -18,7 +18,8 @@ It is a structured research tool designed to keep the record honest, searchable,
 | **[People](people/index.md)** | Entity cards for the early-origins scientist cluster and key actors |
 | **[Facilities](facilities/index.md)** | High-containment labs (WIV + U.S. comparative set) |
 | **[Timeline](timeline.md)** | Chronological spine with Fauci diary anchors |
-| **[Map & Network](map.md)** | Geographic and relationship data |
+| **[Map](map.md)** | Interactive geographic map of labs, orgs, and early sites |
+| **[Network Graph](network.md)** | Interactive relationship graph (funding, calls, authorship, documents) |
 
 ---
 
