@@ -1,0 +1,80 @@
+name: Issue moderation
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  triage:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Triage new issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const issue = context.payload.issue;
+            const title = (issue.title || '').toLowerCase();
+            const body = issue.body || '';
+            const bodyLower = body.toLowerCase();
+
+            // --- Auto-label by template / title ---
+            const labels = [];
+            if (title.startsWith('new evidence:') || body.includes('Which Claim or Case does this evidence belong to')) {
+              labels.push('evidence');
+            } else if (title.startsWith('new claim proposal:') || body.includes('One-sentence statement of the claim')) {
+              labels.push('claim');
+            } else if (title.startsWith('new case proposal:') || body.includes('Event / Case name')) {
+              labels.push('case');
+            } else if (title.startsWith('correction:') || body.includes('File or Claim / Case that needs correction')) {
+              labels.push('correction');
+            } else if (title.startsWith('process question:')) {
+              labels.push('process');
+            } else {
+              labels.push('needs-triage');
+            }
+
+            // --- Required-field checks (lightweight) ---
+            const hasSource = /https?:\/\//i.test(body) ||
+              bodyLower.includes('primary source') && body.split('\n').some(l => l.trim().length > 20 && !l.trim().startsWith('#') && !l.trim().startsWith('- [ ]'));
+            const hasSummary = body.length > 200;
+            const looksEmpty = body.trim().length < 80;
+
+            if (looksEmpty || (!hasSource && !labels.includes('process'))) {
+              labels.push('needs-info');
+            }
+
+            if (labels.length) {
+              await github.rest.issues.addLabels({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issue.number,
+                labels: labels
+              });
+            }
+
+            // --- Welcome + standards comment ---
+            let comment = `## Thanks for contributing to Truth Map\n\n`;
+            comment += `Every submission is reviewed against the project standards before it enters the official record.\n\n`;
+            comment += `**Required for review:**\n`;
+            comment += `1. Exact target (Claim / Case / file)\n`;
+            comment += `2. Primary source(s) — URL, document title, date\n`;
+            comment += `3. Short plain-English summary of what the source shows\n`;
+            comment += `4. Suggested confidence label (Confirmed / Supported / Contested / Unsupported)\n\n`;
+
+            if (labels.includes('needs-info')) {
+              comment += `> **This issue was flagged \`needs-info\`.** It appears to be missing a clear primary source or is too short to review. Please edit the issue to add the required fields, then comment when ready.\n\n`;
+            }
+
+            comment += `**Rules reminder:** Primary sources first. No speculation as fact. No doxxing. Show evidence for *and* against when both exist.\n\n`;
+            comment += `Full standards: [Gatekeeping & Moderation](https://bnbcleaners.github.io/truth-map/about/gatekeeping/) · [Contributing](https://github.com/BnBCleaners/truth-map/blob/main/CONTRIBUTING.md)\n`;
+
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: issue.number,
+              body: comment
+            });
