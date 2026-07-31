@@ -9,7 +9,7 @@ Interactive geographic view of key locations tied to the COVID origins knowledge
   <span><span style="display:inline-block;width:14px;height:14px;border-radius:50%;background:#1565c0;margin-right:6px;vertical-align:middle;"></span> High-Containment Labs</span>
 </div>
 
-**Data source:** [`maps/covid-origins-layered-v7.csv`](https://github.com/BnBCleaners/truth-map/blob/main/maps/covid-origins-layered-v7.csv) (Kepler.gl ready)
+**Data source:** [`maps/covid-origins-layered-v7.csv`](https://github.com/Truth-Map/truth-map/blob/main/maps/covid-origins-layered-v7.csv) (Kepler.gl ready)
 
 ### Advanced exploration
 For full layer control, time filtering, and custom styling:

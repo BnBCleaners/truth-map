@@ -11,8 +11,8 @@ Interactive relationship graph for the early-origins scientist / funding / docum
 <p style="font-size: 0.85rem; color: var(--md-default-fg-color--light); margin-top: -0.5rem;">Drag nodes · Scroll to zoom · Click a node or edge for details.</p>
 
 **Data files:**
-- [`graphs/covid-network-v2-nodes.csv`](https://github.com/BnBCleaners/truth-map/blob/main/graphs/covid-network-v2-nodes.csv)
-- [`graphs/covid-network-v2-edges.csv`](https://github.com/BnBCleaners/truth-map/blob/main/graphs/covid-network-v2-edges.csv)
+- [`graphs/covid-network-v2-nodes.csv`](https://github.com/Truth-Map/truth-map/blob/main/graphs/covid-network-v2-nodes.csv)
+- [`graphs/covid-network-v2-edges.csv`](https://github.com/Truth-Map/truth-map/blob/main/graphs/covid-network-v2-edges.csv)
 
 ### What the edges capture
 - Funding relationships (NIH → EcoHealth → WIV)

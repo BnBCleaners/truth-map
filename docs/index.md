@@ -42,5 +42,5 @@ See [Purpose & Rules](about/purpose.md) and [Architecture](about/architecture.md
 
 ---
 
-**Source of truth:** [GitHub repository](https://github.com/BnBCleaners/truth-map)  
-**Contribute:** Open an [Issue](https://github.com/BnBCleaners/truth-map/issues/new/choose) using the templates
+**Source of truth:** [GitHub repository](https://github.com/Truth-Map/truth-map)  
+**Contribute:** Open an [Issue](https://github.com/Truth-Map/truth-map/issues/new/choose) using the templates
