@@ -9,43 +9,43 @@
 <div class="tm-card-grid">
 
 <div class="tm-card">
-  <h3><a href="claims/index.md">Claims</a></h3>
+  <h3><a href="claims/">Claims</a></h3>
   <p>Scored truth propositions with clear confidence labels and sources on both sides.</p>
   <div class="meta">Confirmed · Supported · Contested · Unsupported</div>
 </div>
 
 <div class="tm-card">
-  <h3><a href="cases/index.md">Cases</a></h3>
+  <h3><a href="cases/">Cases</a></h3>
   <p>Event reconstructions with timelines, actors, and primary documents.</p>
   <div class="meta">Fauci Diary · Lancet Letter · Proximal Origin · more</div>
 </div>
 
 <div class="tm-card">
-  <h3><a href="people/index.md">People</a></h3>
+  <h3><a href="people/">People</a></h3>
   <p>Entity cards for the early-origins scientist cluster and key actors.</p>
   <div class="meta">Andersen · Farrar · Daszak · Holmes · others</div>
 </div>
 
 <div class="tm-card">
-  <h3><a href="facilities/index.md">Facilities</a></h3>
+  <h3><a href="facilities/">Facilities</a></h3>
   <p>High-containment labs — WIV plus U.S. comparative nodes.</p>
   <div class="meta">WIV · USAMRIID · Galveston · NEIDL · CDC</div>
 </div>
 
 <div class="tm-card">
-  <h3><a href="timeline.md">Timeline</a></h3>
+  <h3><a href="timeline/">Timeline</a></h3>
   <p>Chronological spine anchored on the Fauci diary and early-2020 calls.</p>
   <div class="meta">Primary-source driven</div>
 </div>
 
 <div class="tm-card">
-  <h3><a href="map.md">Map</a></h3>
+  <h3><a href="map/">Map</a></h3>
   <p>Interactive geographic view of labs, organizations, and early sites.</p>
   <div class="meta">Leaflet · Kepler.gl ready</div>
 </div>
 
 <div class="tm-card">
-  <h3><a href="network.md">Network Graph</a></h3>
+  <h3><a href="network/">Network Graph</a></h3>
   <p>Interactive relationship graph — funding, calls, authorship, documents.</p>
   <div class="meta">vis-network</div>
 </div>
