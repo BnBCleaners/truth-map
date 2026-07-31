@@ -1,0 +1,32 @@
+name: Close stale needs-info issues
+
+on:
+  schedule:
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+
+permissions:
+  issues: write
+
+jobs:
+  stale:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/stale@v9
+        with:
+          days-before-issue-stale: 14
+          days-before-issue-close: 7
+          stale-issue-label: needs-info
+          only-labels: needs-info
+          stale-issue-message: |
+            This issue has been marked `needs-info` for 14 days without the required fields (primary source, summary, target Claim/Case).
+
+            Please edit the issue to add the missing information, or it will be closed in 7 days.
+
+            Standards: https://bnbcleaners.github.io/truth-map/about/gatekeeping/
+          close-issue-message: |
+            Closing this issue because required information was not provided after the `needs-info` warning period.
+
+            You may open a new Issue with complete fields at any time using the templates.
+          days-before-pr-stale: -1
+          days-before-pr-close: -1
