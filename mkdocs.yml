@@ -78,8 +78,8 @@ nav:
     - NIAID Intramural Cluster: facilities/niaid-intramural-high-containment.md
   - Timeline: timeline.md
   - Map & Network:
-    - Map data: map.md
-    - Network graph: network.md
+    - Interactive Map: map.md
+    - Interactive Network: network.md
 
 markdown_extensions:
   - tables
