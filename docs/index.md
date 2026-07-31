@@ -1,29 +1,64 @@
+<div class="tm-hero" markdown>
+
 # Truth Map
 
-**A neutral, evidence-based research instrument**
+<p class="tagline">A neutral research instrument for mapping people, organizations, events, claims, and financial flows — so you can see what is solidly known, what is still contested, and what is unsupported.</p>
 
-Mapping people, organizations, events, claims, connections, and financial flows over time — so ordinary people can see what is solidly known, what is still contested, and what is unsupported.
+<p class="ai-note">Research structure and quality gatekeeping assisted by Grok · Primary sources remain human-verified</p>
 
-This is not a conspiracy archive.  
-It is a structured research tool designed to keep the record honest, searchable, and accountable.
+</div>
+
+<div class="tm-section-label">Start here</div>
+
+<div class="tm-card-grid" markdown>
+
+<div class="tm-card" markdown>
+### [Claims](claims/index.md)
+Scored truth propositions with clear confidence labels and sources on both sides.
+<div class="meta">Confirmed · Supported · Contested · Unsupported</div>
+</div>
+
+<div class="tm-card" markdown>
+### [Cases](cases/index.md)
+Event reconstructions with timelines, actors, and primary documents.
+<div class="meta">Fauci Diary · Lancet Letter · Proximal Origin · more</div>
+</div>
+
+<div class="tm-card" markdown>
+### [People](people/index.md)
+Entity cards for the early-origins scientist cluster and key actors.
+<div class="meta">Andersen · Farrar · Daszak · Holmes · others</div>
+</div>
+
+<div class="tm-card" markdown>
+### [Facilities](facilities/index.md)
+High-containment labs — WIV plus U.S. comparative nodes.
+<div class="meta">WIV · USAMRIID · Galveston · NEIDL · CDC</div>
+</div>
+
+<div class="tm-card" markdown>
+### [Timeline](timeline.md)
+Chronological spine anchored on the Fauci diary and early-2020 calls.
+<div class="meta">Primary-source driven</div>
+</div>
+
+<div class="tm-card" markdown>
+### [Map](map.md)
+Interactive geographic view of labs, organizations, and early sites.
+<div class="meta">Leaflet · Kepler.gl ready</div>
+</div>
+
+<div class="tm-card" markdown>
+### [Network Graph](network.md)
+Interactive relationship graph — funding, calls, authorship, documents.
+<div class="meta">vis-network</div>
+</div>
+
+</div>
 
 ---
 
-## Start here
-
-| Section | What you’ll find |
-|---------|------------------|
-| **[Claims](claims/index.md)** | Scored truth propositions (Confirmed / Supported / Contested / Unsupported) |
-| **[Cases](cases/index.md)** | Event reconstructions with timelines and primary sources |
-| **[People](people/index.md)** | Entity cards for the early-origins scientist cluster and key actors |
-| **[Facilities](facilities/index.md)** | High-containment labs (WIV + U.S. comparative set) |
-| **[Timeline](timeline.md)** | Chronological spine with Fauci diary anchors |
-| **[Map](map.md)** | Interactive geographic map of labs, orgs, and early sites |
-| **[Network Graph](network.md)** | Interactive relationship graph (funding, calls, authorship, documents) |
-
----
-
-## Core rules (non-negotiable)
+### Core rules (non-negotiable)
 
 1. **Primary sources first**
 2. **Clear labels** on every claim: Confirmed · Supported · Contested · Unsupported / Misleading
@@ -33,7 +68,7 @@ It is a structured research tool designed to keep the record honest, searchable,
 
 ---
 
-## How the knowledge base grows
+### How the knowledge base grows
 
 **Claim / Case-driven only.**  
 People, organizations, and facilities expand only when an active Claim or Case requires them. Supporting data is built as needed — not collected for its own sake.

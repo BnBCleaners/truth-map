@@ -1,0 +1,193 @@
+/* =========================================================
+   Truth Map — custom visual layer
+   Goal: research instrument, not wiki
+   ========================================================= */
+
+/* ---------- Evidence status badges ---------- */
+.badge {
+  display: inline-block;
+  padding: 0.18em 0.65em;
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  line-height: 1.4;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+.badge-confirmed {
+  background: #1b5e20;
+  color: #e8f5e9;
+}
+.badge-supported {
+  background: #0d47a1;
+  color: #e3f2fd;
+}
+.badge-contested {
+  background: #e65100;
+  color: #fff3e0;
+}
+.badge-unsupported {
+  background: #b71c1c;
+  color: #ffebee;
+}
+.badge-primary {
+  background: #006064;
+  color: #e0f7fa;
+}
+
+/* ---------- Cards ---------- */
+.tm-card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.tm-card {
+  background: var(--md-default-bg-color);
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 10px;
+  padding: 1.15rem 1.25rem;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease, transform 0.15s ease;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.tm-card:hover {
+  border-color: var(--md-primary-fg-color);
+  box-shadow: 0 4px 18px rgba(0,0,0,0.08);
+  transform: translateY(-2px);
+}
+
+.tm-card h3 {
+  margin: 0 0 0.4rem;
+  font-size: 1.05rem;
+  line-height: 1.3;
+}
+
+.tm-card h3 a {
+  color: var(--md-default-fg-color);
+  text-decoration: none;
+}
+
+.tm-card h3 a:hover {
+  color: var(--md-primary-fg-color);
+}
+
+.tm-card p {
+  margin: 0;
+  font-size: 0.88rem;
+  color: var(--md-default-fg-color--light);
+  flex-grow: 1;
+}
+
+.tm-card .meta {
+  margin-top: 0.75rem;
+  font-size: 0.75rem;
+  color: var(--md-default-fg-color--lighter);
+}
+
+/* ---------- Homepage hero ---------- */
+.tm-hero {
+  margin: 0.5rem 0 2.2rem;
+  padding: 1.75rem 1.5rem;
+  border-radius: 12px;
+  background: linear-gradient(135deg, rgba(63,81,181,0.08) 0%, rgba(0,0,0,0.02) 100%);
+  border: 1px solid var(--md-default-fg-color--lightest);
+}
+
+[data-md-color-scheme="slate"] .tm-hero {
+  background: linear-gradient(135deg, rgba(63,81,181,0.15) 0%, rgba(0,0,0,0.15) 100%);
+}
+
+.tm-hero h1 {
+  margin: 0 0 0.6rem;
+  font-size: 1.9rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.tm-hero .tagline {
+  font-size: 1.05rem;
+  margin: 0 0 1rem;
+  color: var(--md-default-fg-color--light);
+  max-width: 38rem;
+}
+
+.tm-hero .ai-note {
+  font-size: 0.78rem;
+  color: var(--md-default-fg-color--lighter);
+  margin: 0;
+  letter-spacing: 0.01em;
+}
+
+/* ---------- Section headers ---------- */
+.tm-section-label {
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--md-default-fg-color--light);
+  margin-bottom: 0.6rem;
+}
+
+/* ---------- Map & Network containers ---------- */
+#truth-map,
+#truth-network {
+  border-radius: 10px !important;
+  border: 1px solid var(--md-default-fg-color--lightest) !important;
+  overflow: hidden;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+}
+
+[data-md-color-scheme="slate"] #truth-map,
+[data-md-color-scheme="slate"] #truth-network {
+  box-shadow: 0 2px 16px rgba(0,0,0,0.25);
+}
+
+/* Legend polish */
+.tm-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin: 0.8rem 0 1.4rem;
+  font-size: 0.85rem;
+}
+
+.tm-legend span {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.tm-dot {
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+/* ---------- Misc polish ---------- */
+.md-typeset h1 {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.md-typeset table:not([class]) {
+  border-radius: 8px;
+  overflow: hidden;
+  font-size: 0.9rem;
+}
+
+/* Soften the default Material table look */
+.md-typeset table:not([class]) th {
+  background: var(--md-default-fg-color--lightest);
+  font-weight: 600;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
