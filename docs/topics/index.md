@@ -6,9 +6,15 @@ A Topic itself does **not** receive an overall score. The real work lives in the
 <div class="tm-card-grid">
 
 <div class="tm-card">
+  <h3><a href="covid-19-origins/">COVID-19 Origins</a></h3>
+  <p>Lab-leak framing, gain-of-function questions, early narrative management, and related factual disputes.</p>
+  <div class="meta">Multi-angle Topic · Core focus area</div>
+</div>
+
+<div class="tm-card">
   <h3><a href="hunter-biden-laptop/">Hunter Biden Laptop</a></h3>
   <p>Device contents, 51 IC letter, chain of custody, court use, and related framing claims.</p>
-  <div class="meta">Multi-angle Topic · First full example</div>
+  <div class="meta">Multi-angle Topic</div>
 </div>
 
 </div>

@@ -7,7 +7,6 @@ repo_name: Truth-Map/truth-map
 theme:
   name: material
   palette:
-    # Default to dark (console) mode
     - scheme: slate
       primary: indigo
       accent: indigo
@@ -50,11 +49,12 @@ nav:
     - Fact-check checklist: about/fact-check-checklist.md
   - Topics:
     - Overview: topics/index.md
+    - COVID-19 Origins: topics/covid-19-origins.md
     - Hunter Biden Laptop: topics/hunter-biden-laptop.md
   - Claims:
     - Overview: claims/index.md
-    - C-02 Lab-leak = conspiracy theory: claims/C-02-lab-leak-is-conspiracy-theory.md
-    - C-03 No GOF at WIV: claims/C-03-no-gain-of-function-at-wiv.md
+    - Lab-leak framing: claims/C-02-lab-leak-is-conspiracy-theory.md
+    - GOF funding at WIV: claims/C-03-no-gain-of-function-at-wiv.md
   - Cases:
     - Overview: cases/index.md
     - Fauci Diary (2026): cases/fauci-diary.md

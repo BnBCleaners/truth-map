@@ -11,7 +11,7 @@
 <div class="tm-card">
   <h3><a href="topics/">Topics</a></h3>
   <p>Complex public subjects broken into multiple scored angles so the real sifting stays visible.</p>
-  <div class="meta">Hunter Biden Laptop · more coming</div>
+  <div class="meta">COVID-19 Origins · Hunter Biden Laptop</div>
 </div>
 
 <div class="tm-card">
