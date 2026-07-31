@@ -9,6 +9,8 @@ Help ordinary people see what is solidly known, what is still contested, and wha
 This is not a conspiracy archive.  
 It is a structured research tool designed to keep the record honest, searchable, and accountable.
 
+**Live site:** https://bnbcleaners.github.io/truth-map/
+
 ---
 
 ## Core Rules (non-negotiable)
@@ -61,14 +63,16 @@ Short version:
 
 | What | Where |
 |------|-------|
-| Living task list | [`TASKS.md`](TASKS.md) |
+| Live website | [bnbcleaners.github.io/truth-map](https://bnbcleaners.github.io/truth-map/) |
+| Interactive Map | [docs/map.md](https://bnbcleaners.github.io/truth-map/map/) |
+| Interactive Network Graph | [docs/network.md](https://bnbcleaners.github.io/truth-map/network/) |
 | Architecture & rules | [`ARCHITECTURE.md`](ARCHITECTURE.md) |
 | Claims registry | [`claims/`](claims/) |
 | Events / Cases | [`events/`](events/) |
-| People | [`entities/`](entities/) + [`entities.md`](entities.md) |
+| People / entities | [`entities/`](entities/) |
 | Facilities | [`facilities/`](facilities/) |
 | Organizations | [`organizations/`](organizations/) |
-| Map (Kepler.gl) | [`maps/covid-origins-map-v7.json`](maps/covid-origins-map-v7.json) |
+| Map data (CSV for Kepler.gl) | [`maps/covid-origins-layered-v7.csv`](maps/covid-origins-layered-v7.csv) |
 | Network graph data | [`graphs/`](graphs/) |
 
 ---
