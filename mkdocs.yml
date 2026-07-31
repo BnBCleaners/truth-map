@@ -43,6 +43,7 @@ nav:
     - Architecture: about/architecture.md
     - How to contribute: about/contributing.md
     - Gatekeeping & Moderation: about/gatekeeping.md
+    - Fact-check checklist: about/fact-check-checklist.md
   - Claims:
     - Overview: claims/index.md
     - C-01 Laptop / Russian disinfo: claims/C-01-laptop-russian-disinfo.md
