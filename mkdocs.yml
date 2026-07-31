@@ -1,8 +1,8 @@
 site_name: Truth Map
 site_description: Neutral, evidence-based research instrument — Claims, Cases, people, organizations, facilities, and timelines
-site_url: https://bnbcleaners.github.io/truth-map/
-repo_url: https://github.com/BnBCleaners/truth-map
-repo_name: BnBCleaners/truth-map
+site_url: https://truth-map.github.io/truth-map/
+repo_url: https://github.com/Truth-Map/truth-map
+repo_name: Truth-Map/truth-map
 
 theme:
   name: material
@@ -93,4 +93,4 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/BnBCleaners/truth-map
+      link: https://github.com/Truth-Map/truth-map

@@ -9,7 +9,7 @@ Help ordinary people see what is solidly known, what is still contested, and wha
 This is not a conspiracy archive.  
 It is a structured research tool designed to keep the record honest, searchable, and accountable.
 
-**Live site:** https://bnbcleaners.github.io/truth-map/
+**Live site:** https://truth-map.github.io/truth-map/
 
 ---
 
@@ -63,9 +63,9 @@ Short version:
 
 | What | Where |
 |------|-------|
-| Live website | [bnbcleaners.github.io/truth-map](https://bnbcleaners.github.io/truth-map/) |
-| Interactive Map | [docs/map.md](https://bnbcleaners.github.io/truth-map/map/) |
-| Interactive Network Graph | [docs/network.md](https://bnbcleaners.github.io/truth-map/network/) |
+| Live website | [truth-map.github.io/truth-map](https://truth-map.github.io/truth-map/) |
+| Interactive Map | [docs/map.md](https://truth-map.github.io/truth-map/map/) |
+| Interactive Network Graph | [docs/network.md](https://truth-map.github.io/truth-map/network/) |
 | Architecture & rules | [`ARCHITECTURE.md`](ARCHITECTURE.md) |
 | Claims registry | [`claims/`](claims/) |
 | Events / Cases | [`events/`](events/) |
