@@ -42,6 +42,7 @@ nav:
     - Purpose & Rules: about/purpose.md
     - Architecture: about/architecture.md
     - How to contribute: about/contributing.md
+    - Gatekeeping & Moderation: about/gatekeeping.md
   - Claims:
     - Overview: claims/index.md
     - C-01 Laptop / Russian disinfo: claims/C-01-laptop-russian-disinfo.md
