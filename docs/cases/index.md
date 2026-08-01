@@ -19,13 +19,31 @@ Event reconstructions with timelines, actors, and primary sources.
 <div class="tm-card">
   <h3><a href="tesla/">Tesla</a></h3>
   <span class="badge badge-primary">Company Case</span>
-  <p>Structure, government incentives, FSD/Optimus, personnel overlaps (~85%).</p>
+  <p>Structure, government incentives, FSD/Optimus (~85%).</p>
 </div>
 
 <div class="tm-card">
   <h3><a href="spacex/">SpaceX</a></h3>
   <span class="badge badge-primary">Company Case</span>
   <p>IPO, NASA/DoD contracts, Starlink, xAI acquisition (~88%).</p>
+</div>
+
+<div class="tm-card">
+  <h3><a href="xai/">xAI</a></h3>
+  <span class="badge badge-primary">Company Case</span>
+  <p>Grok models; X acquisition; SpaceX integration (~40%).</p>
+</div>
+
+<div class="tm-card">
+  <h3><a href="neuralink/">Neuralink</a></h3>
+  <span class="badge badge-contested">Early Trials</span>
+  <p>Brain–computer interfaces; FDA pathway; human implants (~35%).</p>
+</div>
+
+<div class="tm-card">
+  <h3><a href="boring-company/">The Boring Company</a></h3>
+  <span class="badge badge-contested">Company Case</span>
+  <p>Tunneling; Las Vegas Loop (~30%).</p>
 </div>
 
 <div class="tm-card">
