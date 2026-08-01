@@ -64,6 +64,8 @@ nav:
     - Overview: cases/index.md
     - Unchecked / Illegal Immigration: cases/unchecked-illegal-immigration.md
     - Project Mockingbird: cases/project-mockingbird.md
+    - Tesla: cases/tesla.md
+    - SpaceX: cases/spacex.md
     - Gabbard COVID / Fauci (2026): cases/gabbard-covid-fauci.md
     - Gabbard 2016 Election: cases/gabbard-2016-election.md
     - Gabbard Biolabs: cases/gabbard-biolabs.md
@@ -77,18 +79,22 @@ nav:
     - Ownership concentration: media/ownership-concentration.md
     - Twitter Files / platforms: media/twitter-files.md
   - People:
-    - Early-origins cluster: people/index.md
-    - Kristian Andersen: people/kristian-andersen.md
+    - Overview: people/index.md
+    - Elon Musk: people/elon-musk.md
     - Jeremy Farrar: people/jeremy-farrar.md
+    - Peter Daszak: people/peter-daszak.md
+    - Kristian Andersen: people/kristian-andersen.md
     - Edward Holmes: people/edward-holmes.md
     - Robert Garry: people/robert-garry.md
     - Andrew Rambaut: people/andrew-rambaut.md
     - Ron Fouchier: people/ron-fouchier.md
     - Christian Drosten: people/christian-drosten.md
-    - Peter Daszak: people/peter-daszak.md
     - Joseph Alsop: people/joseph-alsop.md
     - Stewart Alsop: people/stewart-alsop.md
     - Philip L. Graham: people/philip-l-graham.md
+    - Henry Luce / C.D. Jackson: people/henry-luce-cd-jackson.md
+    - James S. Copley: people/james-s-copley.md
+    - C.L. Sulzberger: people/c-l-sulzberger.md
   - Organizations:
     - Overview: organizations/index.md
     - Council on Foreign Relations: organizations/cfr.md

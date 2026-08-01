@@ -7,13 +7,25 @@ Event reconstructions with timelines, actors, and primary sources.
 <div class="tm-card">
   <h3><a href="unchecked-illegal-immigration/">Unchecked / Illegal Immigration</a></h3>
   <span class="badge badge-contested">Contested Intent</span>
-  <p>U.S. + Europe scale, CHNV, funding, coalitions, litigation, comparison.</p>
+  <p>U.S. + Europe scale, CHNV, funding, coalitions, litigation.</p>
 </div>
 
 <div class="tm-card">
   <h3><a href="project-mockingbird/">Project Mockingbird</a></h3>
   <span class="badge badge-primary">Documented Core</span>
-  <p>1963 CIA wiretaps + Cold War journalist relationships. Continuity Contested.</p>
+  <p>1963 CIA wiretaps + Cold War journalist relationships.</p>
+</div>
+
+<div class="tm-card">
+  <h3><a href="tesla/">Tesla</a></h3>
+  <span class="badge badge-primary">Company Case</span>
+  <p>Structure, government incentives, FSD/Optimus, personnel overlaps (~85%).</p>
+</div>
+
+<div class="tm-card">
+  <h3><a href="spacex/">SpaceX</a></h3>
+  <span class="badge badge-primary">Company Case</span>
+  <p>IPO, NASA/DoD contracts, Starlink, xAI acquisition (~88%).</p>
 </div>
 
 <div class="tm-card">
@@ -25,7 +37,7 @@ Event reconstructions with timelines, actors, and primary sources.
 <div class="tm-card">
   <h3><a href="gabbard-2016-election/">Gabbard Declass — 2016 Election</a></h3>
   <span class="badge badge-contested">Contested Framing</span>
-  <p>ICA process materials. Analytic disputes Confirmed; conspiracy framing Contested.</p>
+  <p>ICA process materials; conspiracy framing Contested.</p>
 </div>
 
 <div class="tm-card">
@@ -55,7 +67,7 @@ Event reconstructions with timelines, actors, and primary sources.
 <div class="tm-card">
   <h3><a href="proximal-origin/">Proximal Origin (2020)</a></h3>
   <span class="badge badge-contested">Contested</span>
-  <p>Nature Medicine paper; same scientist cluster as 1 Feb call.</p>
+  <p>Nature Medicine paper; 1 Feb call cluster.</p>
 </div>
 
 <div class="tm-card">
