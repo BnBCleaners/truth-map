@@ -57,11 +57,13 @@ nav:
     - Laptop = Russian disinfo: claims/C-01-laptop-russian-disinfo.md
     - 51-letter “just expert opinion”: claims/C-04-51-letter-expert-opinion.md
     - Manufactured Russia hoax framing: claims/C-06-manufactured-russia-hoax.md
+    - Mockingbird never ended: claims/C-11-mockingbird-never-ended.md
     - Lab-leak framing: claims/C-02-lab-leak-is-conspiracy-theory.md
     - GOF funding at WIV: claims/C-03-no-gain-of-function-at-wiv.md
   - Cases:
     - Overview: cases/index.md
     - Unchecked / Illegal Immigration: cases/unchecked-illegal-immigration.md
+    - Project Mockingbird: cases/project-mockingbird.md
     - Gabbard COVID / Fauci (2026): cases/gabbard-covid-fauci.md
     - Gabbard 2016 Election: cases/gabbard-2016-election.md
     - Gabbard Biolabs: cases/gabbard-biolabs.md
@@ -70,6 +72,10 @@ nav:
     - Lancet Letter (2020): cases/lancet-letter.md
     - Proximal Origin (2020): cases/proximal-origin.md
     - Fauci GOF Testimony (2021): cases/fauci-gof-testimony.md
+  - Media Influence:
+    - Overview: media/index.md
+    - Ownership concentration: media/ownership-concentration.md
+    - Twitter Files / platforms: media/twitter-files.md
   - People:
     - Early-origins cluster: people/index.md
     - Kristian Andersen: people/kristian-andersen.md
@@ -80,7 +86,17 @@ nav:
     - Ron Fouchier: people/ron-fouchier.md
     - Christian Drosten: people/christian-drosten.md
     - Peter Daszak: people/peter-daszak.md
+    - Joseph Alsop: people/joseph-alsop.md
+    - Stewart Alsop: people/stewart-alsop.md
+    - Philip L. Graham: people/philip-l-graham.md
   - Organizations:
+    - Overview: organizations/index.md
+    - Council on Foreign Relations: organizations/cfr.md
+    - Bilderberg: organizations/bilderberg.md
+    - World Economic Forum: organizations/wef.md
+    - Trilateral Commission: organizations/trilateral-commission.md
+    - Atlantic Council: organizations/atlantic-council.md
+    - Aspen Institute: organizations/aspen-institute.md
     - EcoHealth Alliance: organizations/ecohealth-alliance.md
     - Wellcome Trust: organizations/wellcome-trust.md
   - Facilities:

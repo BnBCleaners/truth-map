@@ -10,50 +10,50 @@
 
 <div class="tm-card">
   <h3><a href="topics/">Topics</a></h3>
-  <p>Complex public subjects broken into multiple scored angles so the real sifting stays visible.</p>
-  <div class="meta">COVID-19 Origins · Hunter Biden Laptop · Immigration</div>
+  <p>Complex subjects broken into scored angles.</p>
+  <div class="meta">COVID Origins · Hunter Biden Laptop · Immigration</div>
 </div>
 
 <div class="tm-card">
   <h3><a href="claims/">Claims</a></h3>
-  <p>Tightly scoped factual propositions with a single confidence label.</p>
+  <p>Tight factual propositions with one confidence label each.</p>
   <div class="meta">Confirmed · Supported · Contested · Unsupported</div>
 </div>
 
 <div class="tm-card">
   <h3><a href="cases/">Cases</a></h3>
-  <p>Event reconstructions with timelines, actors, and primary documents.</p>
-  <div class="meta">Immigration · Gabbard declass series · Stock trading · Fauci Diary · more</div>
+  <p>Event reconstructions with timelines and primary documents.</p>
+  <div class="meta">Immigration · Mockingbird · Gabbard series · Stock trading · more</div>
+</div>
+
+<div class="tm-card">
+  <h3><a href="media/">Media Influence</a></h3>
+  <p>CIA–media history, ownership concentration, Twitter Files.</p>
+  <div class="meta">Mockingbird · Platforms · Continuity claims</div>
 </div>
 
 <div class="tm-card">
   <h3><a href="people/">People</a></h3>
-  <p>Entity cards for the early-origins scientist cluster and key actors.</p>
-  <div class="meta">Andersen · Farrar · Daszak · Holmes · others</div>
+  <p>Entity cards — scientists, journalists, publishers, key actors.</p>
+  <div class="meta">Origins cluster · Alsops · Graham · more</div>
+</div>
+
+<div class="tm-card">
+  <h3><a href="organizations/">Organizations</a></h3>
+  <p>Elite forums and research organizations required by active Cases.</p>
+  <div class="meta">CFR · Bilderberg · WEF · EcoHealth · more</div>
 </div>
 
 <div class="tm-card">
   <h3><a href="facilities/">Facilities</a></h3>
-  <p>High-containment labs — WIV plus U.S. comparative nodes.</p>
+  <p>High-containment labs — WIV and U.S. comparative nodes.</p>
   <div class="meta">WIV · USAMRIID · Galveston · NEIDL · CDC</div>
 </div>
 
 <div class="tm-card">
-  <h3><a href="timeline/">Timeline</a></h3>
-  <p>Chronological spine anchored on the Fauci diary and early-2020 calls.</p>
-  <div class="meta">Primary-source driven</div>
-</div>
-
-<div class="tm-card">
-  <h3><a href="map/">Map</a></h3>
-  <p>Interactive geographic view of labs, organizations, and early sites.</p>
-  <div class="meta">Leaflet · Kepler.gl ready</div>
-</div>
-
-<div class="tm-card">
-  <h3><a href="network/">Network Graph</a></h3>
-  <p>Interactive relationship graph — funding, calls, authorship, documents.</p>
-  <div class="meta">vis-network</div>
+  <h3><a href="map/">Map & Network</a></h3>
+  <p>Interactive geographic and relationship views.</p>
+  <div class="meta">Leaflet · vis-network</div>
 </div>
 
 </div>
@@ -62,20 +62,17 @@
 
 ### How the layers work
 
-1. **Hub cards** (this page and section indexes) — clean entry points  
-2. **Case / Claim / Topic pages** — labeled findings and key tables  
-3. **Depth** — full research detail mirrored from the project knowledge base as pages mature  
-4. **Contribute** — open an [Issue](https://github.com/Truth-Map/truth-map/issues/new/choose); evidence rules still apply  
+1. **Hub cards** — clean entry points  
+2. **Case / Claim / Topic pages** — labeled findings  
+3. **Depth** — full research mirrored as pages mature  
+4. **Contribute** — [open an Issue](https://github.com/Truth-Map/truth-map/issues/new/choose)
 
-### Core rules (non-negotiable)
+### Core rules
 
-1. **Primary sources first**  
-2. **Clear labels** on every claim: Confirmed · Supported · Contested · Unsupported / Misleading  
-3. Always show evidence **for and against**  
-4. No doxxing, no illegal material, no speculation presented as fact  
-5. Public contributions are welcome and reviewed against these standards before entering the official record  
+1. Primary sources first  
+2. Clear labels: Confirmed · Supported · Contested · Unsupported  
+3. Evidence for and against  
+4. No doxxing, no illegal material, no speculation as fact  
+5. Contributions welcome and reviewed  
 
----
-
-**Source of truth:** [GitHub repository](https://github.com/Truth-Map/truth-map)  
-**Contribute:** Open an [Issue](https://github.com/Truth-Map/truth-map/issues/new/choose) using the templates
+**Source of truth:** [GitHub](https://github.com/Truth-Map/truth-map)
