@@ -23,7 +23,7 @@
 <div class="tm-card">
   <h3><a href="cases/">Cases</a></h3>
   <p>Event reconstructions with timelines, actors, and primary documents.</p>
-  <div class="meta">Fauci Diary · Lancet Letter · Proximal Origin · more</div>
+  <div class="meta">Immigration · Fauci Diary · Lancet Letter · Proximal Origin · more</div>
 </div>
 
 <div class="tm-card">

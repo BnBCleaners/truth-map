@@ -5,6 +5,13 @@ Event reconstructions with timelines, actors, and primary sources.
 <div class="tm-card-grid">
 
 <div class="tm-card">
+  <h3><a href="unchecked-illegal-immigration/">Unchecked / Illegal Immigration</a></h3>
+  <span class="badge badge-contested">Contested Intent</span>
+  <p>Global scale, U.S. + Europe statistics, CHNV parole, funding (SSP), political coalitions, litigation, and US–Europe comparison. Intentionality remains Contested.</p>
+  <div class="meta">2021–2025 surge &amp; decline · Completeness ~98%</div>
+</div>
+
+<div class="tm-card">
   <h3><a href="fauci-diary/">Fauci Diary (2026)</a></h3>
   <span class="badge badge-primary">Primary Source</span>
   <p>Contemporaneous private notes (esp. late Jan – early Feb 2020) released July 2026. Central hub for the early-origins calls.</p>
