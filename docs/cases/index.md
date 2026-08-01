@@ -29,6 +29,12 @@ Event reconstructions with timelines, actors, and primary sources.
 </div>
 
 <div class="tm-card">
+  <h3><a href="x-corp/">X (formerly Twitter)</a></h3>
+  <span class="badge badge-primary">Company Case</span>
+  <p>2022 acquisition, rebrand, moderation shift, xAI/SpaceX restructuring (~82%).</p>
+</div>
+
+<div class="tm-card">
   <h3><a href="xai/">xAI</a></h3>
   <span class="badge badge-primary">Company Case</span>
   <p>Grok models; X acquisition; SpaceX integration (~40%).</p>
@@ -37,7 +43,7 @@ Event reconstructions with timelines, actors, and primary sources.
 <div class="tm-card">
   <h3><a href="neuralink/">Neuralink</a></h3>
   <span class="badge badge-contested">Early Trials</span>
-  <p>Brain–computer interfaces; FDA pathway; human implants (~35%).</p>
+  <p>Brain–computer interfaces; FDA pathway (~35%).</p>
 </div>
 
 <div class="tm-card">
