@@ -11,7 +11,7 @@
 <div class="tm-card">
   <h3><a href="topics/">Topics</a></h3>
   <p>Complex public subjects broken into multiple scored angles so the real sifting stays visible.</p>
-  <div class="meta">COVID-19 Origins · Hunter Biden Laptop</div>
+  <div class="meta">COVID-19 Origins · Hunter Biden Laptop · Immigration</div>
 </div>
 
 <div class="tm-card">
@@ -23,7 +23,7 @@
 <div class="tm-card">
   <h3><a href="cases/">Cases</a></h3>
   <p>Event reconstructions with timelines, actors, and primary documents.</p>
-  <div class="meta">Immigration · Fauci Diary · Lancet Letter · Proximal Origin · more</div>
+  <div class="meta">Immigration · Gabbard declass series · Stock trading · Fauci Diary · more</div>
 </div>
 
 <div class="tm-card">
@@ -60,22 +60,20 @@
 
 ---
 
+### How the layers work
+
+1. **Hub cards** (this page and section indexes) — clean entry points  
+2. **Case / Claim / Topic pages** — labeled findings and key tables  
+3. **Depth** — full research detail mirrored from the project knowledge base as pages mature  
+4. **Contribute** — open an [Issue](https://github.com/Truth-Map/truth-map/issues/new/choose); evidence rules still apply  
+
 ### Core rules (non-negotiable)
 
-1. **Primary sources first**
-2. **Clear labels** on every claim: Confirmed · Supported · Contested · Unsupported / Misleading
-3. Always show evidence **for and against**
-4. No doxxing, no illegal material, no speculation presented as fact
-5. Public contributions are welcome and reviewed against these standards before entering the official record
-
----
-
-### How the knowledge base grows
-
-**Claim / Topic / Case-driven only.**  
-People, organizations, and facilities expand only when an active Claim, Angle, or Case requires them. Supporting data is built as needed — not collected for its own sake.
-
-See [Purpose & Rules](about/purpose.md) and [Architecture](about/architecture.md) for the full design.
+1. **Primary sources first**  
+2. **Clear labels** on every claim: Confirmed · Supported · Contested · Unsupported / Misleading  
+3. Always show evidence **for and against**  
+4. No doxxing, no illegal material, no speculation presented as fact  
+5. Public contributions are welcome and reviewed against these standards before entering the official record  
 
 ---
 
