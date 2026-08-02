@@ -11,7 +11,7 @@
 <div class="tm-card">
   <h3><a href="topics/">Topics</a></h3>
   <p>Complex subjects broken into scored angles.</p>
-  <div class="meta">COVID Origins · Hunter Biden Laptop · Immigration</div>
+  <div class="meta">COVID Origins · Hunter Biden Laptop · Immigration · Media Influence</div>
 </div>
 
 <div class="tm-card">
@@ -23,19 +23,13 @@
 <div class="tm-card">
   <h3><a href="cases/">Cases</a></h3>
   <p>Event reconstructions with timelines and primary documents.</p>
-  <div class="meta">Immigration · Mockingbird · Gabbard series · Stock trading · more</div>
-</div>
-
-<div class="tm-card">
-  <h3><a href="media/">Media Influence</a></h3>
-  <p>CIA–media history, ownership concentration, Twitter Files.</p>
-  <div class="meta">Mockingbird · Platforms · Continuity claims</div>
+  <div class="meta">Immigration · Mockingbird · Gabbard series · Musk companies · more</div>
 </div>
 
 <div class="tm-card">
   <h3><a href="people/">People</a></h3>
   <p>Entity cards — scientists, journalists, publishers, key actors.</p>
-  <div class="meta">Origins cluster · Alsops · Graham · more</div>
+  <div class="meta">Origins cluster · Alsops · Graham · Elon Musk · more</div>
 </div>
 
 <div class="tm-card">
@@ -51,6 +45,12 @@
 </div>
 
 <div class="tm-card">
+  <h3><a href="timeline/">Timeline</a></h3>
+  <p>Chronological spine anchored on primary sources.</p>
+  <div class="meta">Early-origins · declass releases</div>
+</div>
+
+<div class="tm-card">
   <h3><a href="map/">Map & Network</a></h3>
   <p>Interactive geographic and relationship views.</p>
   <div class="meta">Leaflet · vis-network</div>
@@ -62,9 +62,9 @@
 
 ### How the layers work
 
-1. **Hub cards** — clean entry points  
-2. **Case / Claim / Topic pages** — labeled findings  
-3. **Depth** — full research mirrored as pages mature  
+1. **Topics** — thematic hubs with multiple scored Angles  
+2. **Claims / Cases / People / Orgs / Facilities** — content types  
+3. **Depth** — full research mirrored from the knowledge base as pages mature  
 4. **Contribute** — [open an Issue](https://github.com/Truth-Map/truth-map/issues/new/choose)
 
 ### Core rules

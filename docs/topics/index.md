@@ -20,8 +20,14 @@ A Topic is a hub. Individual Angles carry their own labels (Confirmed / Supporte
 
 <div class="tm-card">
   <h3><a href="unchecked-illegal-immigration/">Unchecked / Illegal Immigration</a></h3>
-  <p>Scale, policy levers, funding, coalitions, litigation, and intentionality questions — U.S. and Europe.</p>
-  <div class="meta">New · Linked to full Case</div>
+  <p>Scale, policy levers, funding, coalitions, litigation, and intentionality — U.S. and Europe.</p>
+  <div class="meta">Lev1 complete · Full Case</div>
+</div>
+
+<div class="tm-card">
+  <h3><a href="media-influence/">Media Influence / Intelligence–Media Nexus</a></h3>
+  <p>Project Mockingbird, ownership concentration, Twitter Files, continuity claims.</p>
+  <div class="meta">Documented core · Continuity Contested</div>
 </div>
 
 </div>
