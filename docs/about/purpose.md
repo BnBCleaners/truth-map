@@ -9,35 +9,29 @@ We are building a living, public, multi-user research instrument. The quality of
 ## Core rules (never change)
 
 1. **Primary sources first** — court documents, official records, financial filings, contemporaneous notes, verified data.
-2. **Clear labels on every claim**
-   - **Confirmed / True** — strong primary evidence
-   - **Supported** — good evidence, not yet complete
-   - **Contested** — serious disagreement exists
-   - **Unsupported / False** — weak, false, or presented in a way that misleads (and we show why)
+2. **Clear labels on every claim** — True / Supported / Contested / Unsupported / False
 3. Always show evidence **for and against**.
-4. Keep language as clear and simple as possible.
+4. Keep language clear and simple.
 5. No doxxing, no illegal material, no pure speculation presented as fact.
-6. Public contributions are welcome. They are reviewed against these standards before becoming part of the official record.
+6. Public contributions welcome; reviewed against these standards.
 
 ## Sensitive and “dark” topics
 
-Some research touches crime, abuse networks, or high-virality narratives. We do not ignore those subjects. We also do not turn this instrument into a dump for graphic material or unverified horror stories.
+We do not ignore crime or high-virality narratives. We do not turn this into a graphic dump or horror gallery.
 
-- **Documented crime** is tracked from courts, law-enforcement actions, and official reports.
-- **Viral narratives** are recorded so the map is searchable — then labeled honestly when primary evidence does not sustain them.
-- **No graphic media** in the knowledge base or on this site: no CSAM, no gore, no sexualized images of minors, no embedded galleries of disturbing imagery. Text-only treatment; external sources may be cited with a warning if their pages contain such material.
-- **Not every person who wants to “investigate” is acting in good faith.** Submissions that seek spectacle, target private individuals without primary evidence, or push illegal content are rejected. Curiosity is welcome; predation and theater are not.
+- Documented crime → courts and official reports
+- Viral narratives → recorded and labeled when primary evidence does not sustain them
+- **No graphic media** (no CSAM, gore, sexualized images of minors)
+- Not every “investigator” is acting in good faith — spectacle and illegal content are rejected
 
-Full internal protocol lives in the project architecture. The public rule is simple: primary sources, clear labels, no graphic dumps.
+## Growth control
 
-## How growth is controlled
-
-- **Claim / Case-driven**: We expand people, organizations, and facilities only when an active Claim or Case requires them.
-- Deduction and gap-bridging are allowed, but must be clearly labeled as *hypothesis / worth researching* — never asserted as fact.
-- Grok (research assistant) + project owner act as quality gatekeepers. Submissions that do not meet the standards are closed with an explanation.
+- **Claim / Case-driven:** Full profiles only when an active Claim or Case requires them (avoids endless biography for its own sake)
+- Hypothesis allowed when labeled — never asserted as fact
+- Grok + project owner gatekeep quality
 
 ## What this is not
 
-This is not a conspiracy echo chamber.  
-It is not a gallery of traumatic imagery.  
-It is a structured research tool designed for maximum verifiability and minimum confirmation bias.
+Not a conspiracy echo chamber. Not a trauma gallery. A structured tool for maximum verifiability.
+
+See also: [What is locked](what-is-locked.md).
