@@ -65,7 +65,7 @@
 1. **Topics** — thematic hubs with multiple scored Angles  
 2. **Claims / Cases / People / Orgs / Facilities** — content types  
 3. **Depth** — full research mirrored from the knowledge base as pages mature  
-4. **Contribute** — [open an Issue](https://github.com/Truth-Map/truth-map/issues/new/choose)
+4. **Contribute** — [How to contribute / start a Restricted Grok Session](about/contributing/) · or [open an Issue](https://github.com/Truth-Map/truth-map/issues/new/choose)
 
 ### Core rules
 
