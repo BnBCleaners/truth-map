@@ -46,6 +46,7 @@ nav:
     - What is locked: about/what-is-locked.md
     - Architecture: about/architecture.md
     - How to contribute: about/contributing.md
+    - Restricted Grok Session: contribute/session.md
     - Gatekeeping & Moderation: about/gatekeeping.md
     - Fact-check checklist: about/fact-check-checklist.md
   - Topics:
