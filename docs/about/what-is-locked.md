@@ -12,7 +12,7 @@ Everything else lives in deeper pages with Contested / Supported labels.
 | Proposition | Label |
 |-------------|-------|
 | WikiLeaks Podesta emails are authentic documents | **True** |
-| Hunter Biden laptop was authentic (not a Russian fabrication) | **True** (C-01) |
+| Hunter Biden laptop was authentic (not a Russian fabrication) | **True** (C-01 False on “Russian disinfo”) |
 | Comet Ping Pong operated a child-trafficking ring as claimed in viral “Pizzagate” maps | **False** (C-12) |
 | QAnon’s predicted “Storm” / mass arrests program occurred as promised | **False** |
 | Gates Foundation has been a major voluntary funder of WHO and GAVI | **True** |
