@@ -23,9 +23,12 @@ Several senators faced DOJ/SEC inquiry over trades around closed pandemic briefi
 
 **Tuberville (2021):** ~130 trades, ~$894k–$3.56M range, some PTRs up to ~6 months late; COVID-sensitive names while on HELP. Late filing **True**; illegal insider trading **not established**.
 
-### 2026 reform development (True)
+### 2026 reform landscape (True)
 
-On 22 July 2026 the House advanced the Stop Insider Trading Act (H.R. 7008) by a 231–198 vote. The bill would prohibit Members, spouses, and dependent children from purchasing publicly traded stocks while in office, require advance public notice of certain sales, and increase disclosure-violation penalties. As of the last check the bill had not been enacted; Senate disposition remains open.
+- **H.R. 7008 — Stop Insider Trading Act** (Rep. Steil): Passed House 22 Jul 2026 (231–198); received in Senate. Purchase ban for Members/spouses/dependents + 7–14 day sale-notice requirement + higher penalties. No forced divestiture.
+- **S. 1498 — HONEST Act** (Sen. Hawley): Stronger ownership + sale ban + divestiture requirement; covers President/VP as well; on Senate Legislative Calendar (reported Dec 2025).
+- **Restore Trust in Congress** package (bipartisan House & Senate versions) and additional bills remain active but earlier-stage.
+- No ownership-ban bill has been enacted. SEC closed the highest-profile congressional investigation (Burr) without action (Jan 2023); no public SEC civil enforcement actions against members located.
 
 ## Labels
 
@@ -35,7 +38,7 @@ On 22 July 2026 the House advanced the Stop Insider Trading Act (H.R. 7008) by a
 | Late filings occur; formal penalties rare | **True** |
 | Systematic use of non-public info for edge | **Contested** |
 | Abnormal returns alone prove illegal insider trading | **False** as a rule (P2) |
-| House advancement of H.R. 7008 (22 Jul 2026) | **True** (enactment still open) |
+| House passage of H.R. 7008 (22 Jul 2026) | **True** (enactment still open) |
 
 ## Related Claims
 
