@@ -46,6 +46,12 @@ Tight factual propositions with one primary confidence label each. Complex subje
   <div class="meta"><span class="badge badge-false">False</span> core allegation · emails <span class="badge badge-true">True</span> as documents</div>
 </div>
 
+<div class="tm-card">
+  <h3><a href="C-14-uranium-one-clinton/">C-14 — Uranium One / Clinton Foundation</a></h3>
+  <p>Rosatom acquisition, CFIUS process, donations & $500k speech (True); strong quid-pro-quo framing (Contested).</p>
+  <div class="meta"><span class="badge badge-contested">Contested</span> on causal claim · underlying facts <span class="badge badge-true">True</span></div>
+</div>
+
 </div>
 
 **Rule:** One Claim = one tight proposition. Multi-angle subjects → Topics.
