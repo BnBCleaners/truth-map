@@ -11,12 +11,24 @@ Interactive geographic view of key locations tied to the COVID origins knowledge
 
 **Data source:** [`maps/covid-origins-layered-v7.csv`](https://github.com/Truth-Map/truth-map/blob/main/maps/covid-origins-layered-v7.csv) (Kepler.gl ready)
 
-### Advanced exploration
-For full layer control, time filtering, and custom styling:
+---
 
-1. Open [kepler.gl/demo](https://kepler.gl/demo)
-2. Upload the CSV above
-3. Color by `layer_group`, enable the time filter on the `date` field
+## Time-enabled exploration (Kepler.gl)
+
+The overview map above is a static Leaflet view. For **full layer control and a working time slider**:
+
+1. Open **[kepler.gl/demo](https://kepler.gl/demo)** in a new tab  
+2. Click **“Get Started”** → **“Upload data”** (or drag-and-drop)  
+3. Upload this file:  
+   [`covid-origins-layered-v7.csv`](https://raw.githubusercontent.com/Truth-Map/truth-map/main/maps/covid-origins-layered-v7.csv)  
+   (right-click → Save link as… if needed, then upload the saved file)  
+4. Once loaded:  
+   - Color by the `layer_group` field  
+   - Open the **Filters** panel  
+   - Enable the filter on the **`date`** field → this activates the time slider / time-range control  
+5. You can now scrub the timeline, filter by layer group, and explore the full point set
+
+The CSV already contains a proper `date` column and the project’s Kepler config defines a `timeRange` filter. The steps above simply expose that capability in the live Kepler interface.
 
 ---
 
@@ -38,7 +50,6 @@ For full layer control, time filtering, and custom styling:
     {id:10, name:"Rocky Mountain Laboratories (RML)", lat:46.4000, lng:-114.1500, category:"Lab", group:"High-Containment Labs", desc:"NIAID Rocky Mountain Laboratories (Hamilton, MT). High-containment research.", conf:"High"}
   ];
 
-  // Wait for DOM + Leaflet
   function initMap() {
     if (typeof L === 'undefined') {
       setTimeout(initMap, 50);
@@ -57,7 +68,6 @@ For full layer control, time filtering, and custom styling:
       maxZoom: 18
     }).addTo(map);
 
-    // Enable scroll after click (common pattern)
     map.on('click', function() { map.scrollWheelZoom.enable(); });
 
     const colors = {
@@ -85,7 +95,6 @@ For full layer control, time filtering, and custom styling:
       marker.bindPopup(popup);
     });
 
-    // Fit bounds with padding
     const group = L.featureGroup(points.map(function(p) {
       return L.marker([p.lat, p.lng]);
     }));
