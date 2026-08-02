@@ -17,6 +17,12 @@ Tight factual propositions with one primary confidence label each. Complex subje
 </div>
 
 <div class="tm-card">
+  <h3><a href="C-05-newsom-pelosi-nephew/">C-05 — Newsom is Pelosi’s nephew</a></h3>
+  <p>Claim of close blood relation; actual link is distant, dissolved marital connection only.</p>
+  <div class="meta"><span class="badge badge-false">False</span></div>
+</div>
+
+<div class="tm-card">
   <h3><a href="C-06-manufactured-russia-hoax/">C-06 — Manufactured Russia-hoax framing</a></h3>
   <p>Strongest form of “entirely fabricated coup” claims.</p>
   <div class="meta"><span class="badge badge-contested">Contested</span></div>
