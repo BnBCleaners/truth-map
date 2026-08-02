@@ -19,6 +19,12 @@ A Topic is a hub. Individual Angles carry their own labels.
 </div>
 
 <div class="tm-card">
+  <h3><a href="clinton-network/">Clinton Network</a></h3>
+  <p>Foundations, foreign donors during State tenure, Uranium One, Epstein flight association.</p>
+  <div class="meta">Y1–Y9 foundation complete · Multiple Claims</div>
+</div>
+
+<div class="tm-card">
   <h3><a href="unchecked-illegal-immigration/">Unchecked / Illegal Immigration</a></h3>
   <p>Scale, policy levers, funding, coalitions, litigation, and intentionality — U.S. and Europe.</p>
   <div class="meta">Lev1 complete · Full Case</div>
