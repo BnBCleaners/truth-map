@@ -2,7 +2,7 @@
 
 <span class="badge badge-contested">Private Foundation</span>
 
-**Why this card exists:** Dominant private funder of WHO; co-founder of CEPI (with Wellcome and others); documented media-grant portfolio; structural overlap with COVID-era global health governance.
+**Why this card exists:** Dominant private funder of WHO; co-founder of CEPI; major shaper of African agricultural R&D models via AGRA/CGIAR; documented media-grant portfolio.
 
 ## Scale
 
@@ -16,18 +16,28 @@
 
 | Channel | Fact | Label |
 |---------|------|-------|
-| **WHO** | ~$5.5B across 640 grants (2000–2024); among largest voluntary funders; heavy infectious-disease / vaccine skew | Funding **True**; agenda-setting **Supported**; “owns WHO” **Contested** |
-| **CEPI** | Co-founder (2017, Davos) with Wellcome, Norway, India, WEF; major replenishment funder | **True** |
-| **Media** | >$250M toward journalism orgs (CJR accounting), often earmarked global health | Scale **True**; total capture Contested |
-| **Event 201** | Co-hosted 2019 pandemic tabletop with Johns Hopkins + WEF | Exercise **True**; “planned COVID” **Unsupported** |
-| **EcoHealth** | Peripheral public grant(s) (e.g. ~$1.5M One Health Africa) | Grant **True**; not primary WIV channel |
+| **WHO** | ~$5.5B / 640 grants (2000–2024); major voluntary funder; vaccine/polio skew | Funding **True**; agenda-setting **Supported**; “owns WHO” **Contested** |
+| **CEPI** | Co-founder (2017) with Wellcome, Norway, India, WEF | **True** |
+| **CGIAR** | Among largest private donors to international ag research system | **True** |
+| **AGRA** | Co-created with Rockefeller (2006); dominant private funder; outcomes vs goals Contested | Funding **True**; success **Contested** |
+| **Media** | >$250M toward journalism (CJR), often earmarked global health | Scale **True**; total capture Contested |
+| **Event 201** | Co-hosted 2019 pandemic tabletop | Exercise **True**; “planned COVID” **Unsupported** |
+| **U.S. farmland** | Personal (Cascade Investment) holdings reported among largest private; **not** Foundation money | Holdings **Supported**; “controls food supply” **Unsupported** |
+
+## Parallel tracks (do not collapse)
+
+```
+Foundation grants  →  WHO / CEPI / CGIAR / AGRA  →  agenda-setting influence
+Personal capital   →  U.S. farmland (Cascade)     →  land as asset class
+Venture / advocacy →  alt-protein etc.            →  separate from Foundation programs
+```
 
 ## Contested framings
 
-Gates “controls” WHO · Gates “created” COVID · every grantee is a cut-out — all **Contested / Unsupported** on primary sources.
+Controls WHO · created COVID · controls the food supply · AGRA “succeeded” on headline goals — all **Contested / Unsupported** where they claim command or total success.
 
 ## Cross-links
 
-Wellcome Trust · WEF · EcoHealth Alliance · Media Influence Topic · [Private-foundation WHO/CEPI Angle](https://github.com/Truth-Map/truth-map) (KB)
+Wellcome Trust · WEF · EcoHealth Alliance · Media Influence Topic
 
-*Full research card in the project knowledge base.*
+*Full research card + AGRA/CGIAR Angle in the project knowledge base.*
