@@ -23,6 +23,30 @@ Tight factual propositions with one primary confidence label each. Complex subje
 </div>
 
 <div class="tm-card">
+  <h3><a href="C-07-pelosi-household-nonpublic-info-trading/">C-07 — Pelosi household non-public-info trading</a></h3>
+  <p>Well-timed tech trades + tracker ecosystem vs. missing specific-info→trade chain.</p>
+  <div class="meta"><span class="badge badge-contested">Contested</span></div>
+</div>
+
+<div class="tm-card">
+  <h3><a href="C-08-congress-systematic-nonpublic-info-trading/">C-08 — Congress systematic non-public-info trading</a></h3>
+  <p>Systemic pattern claim; controlled studies lean against reliable edge.</p>
+  <div class="meta"><span class="badge badge-contested">Contested</span></div>
+</div>
+
+<div class="tm-card">
+  <h3><a href="C-09-stock-act-enforcement-inadequate/">C-09 — STOCK Act enforcement inadequate</a></h3>
+  <p>Late filings common, formal penalties rare (True on pattern).</p>
+  <div class="meta"><span class="badge badge-true">True</span> pattern · <span class="badge badge-contested">Likely but Unproven</span> full verdict</div>
+</div>
+
+<div class="tm-card">
+  <h3><a href="C-10-post-stock-act-no-aggregate-edge/">C-10 — No reliable aggregate edge post-STOCK Act</a></h3>
+  <p>Controlled studies find portfolios match or underperform benchmarks.</p>
+  <div class="meta"><span class="badge badge-contested">Likely but Unproven</span></div>
+</div>
+
+<div class="tm-card">
   <h3><a href="C-11-mockingbird-never-ended/">C-11 — Mockingbird never ended</a></h3>
   <p>Continuous formal CIA media-control program into the present.</p>
   <div class="meta"><span class="badge badge-contested">Contested</span></div>
