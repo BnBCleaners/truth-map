@@ -4,6 +4,7 @@ Entity cards created because an active Case, Claim, or Angle requires them.
 
 <div class="tm-card-grid">
 
+<div class="tm-card"><h3><a href="bill-gates/">Bill Gates</a></h3><p>Foundation Chair · Cascade · WHO/GAVI/CEPI funding ecosystem.</p></div>
 <div class="tm-card"><h3><a href="elon-musk/">Elon Musk</a></h3><p>Tesla · SpaceX · X · xAI — cross-company controlling figure.</p></div>
 <div class="tm-card"><h3><a href="jeremy-farrar/">Jeremy Farrar</a></h3><p>Wellcome Director 2013–2023; WHO Chief Scientist; early-origins convening role.</p></div>
 <div class="tm-card"><h3><a href="peter-daszak/">Peter Daszak</a></h3><p>EcoHealth Alliance; WIV collaboration; Lancet letter organizer.</p></div>
