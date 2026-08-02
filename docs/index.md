@@ -11,31 +11,31 @@
 <div class="tm-card">
   <h3><a href="topics/">Topics</a></h3>
   <p>Complex subjects broken into scored angles.</p>
-  <div class="meta">COVID Origins · Hunter Biden Laptop · Immigration · Media Influence</div>
+  <div class="meta">COVID Origins · Hunter Biden Laptop · Clinton Network · Immigration · Media Influence · QAnon</div>
 </div>
 
 <div class="tm-card">
   <h3><a href="claims/">Claims</a></h3>
   <p>Tight factual propositions with one confidence label each.</p>
-  <div class="meta">Confirmed · Supported · Contested · Unsupported</div>
+  <div class="meta">True · Likely but Unproven · Contested · Highly Unlikely · False</div>
 </div>
 
 <div class="tm-card">
   <h3><a href="cases/">Cases</a></h3>
   <p>Event reconstructions with timelines and primary documents.</p>
-  <div class="meta">Immigration · Mockingbird · Gabbard series · Musk companies · more</div>
+  <div class="meta">Epstein · Stock Trading · Mockingbird · Gabbard series · Musk companies · more</div>
 </div>
 
 <div class="tm-card">
   <h3><a href="people/">People</a></h3>
-  <p>Entity cards — scientists, journalists, publishers, key actors.</p>
-  <div class="meta">Origins cluster · Alsops · Graham · Elon Musk · more</div>
+  <p>Entity cards — scientists, journalists, publishers, influencers, key actors.</p>
+  <div class="meta">Clinton · Epstein · Owens · Rogan · Carlson · Origins cluster · more</div>
 </div>
 
 <div class="tm-card">
   <h3><a href="organizations/">Organizations</a></h3>
-  <p>Elite forums and research organizations required by active Cases.</p>
-  <div class="meta">CFR · Bilderberg · WEF · EcoHealth · more</div>
+  <p>Elite forums, foundations, media companies, and research organizations required by active Cases.</p>
+  <div class="meta">Clinton Foundations · Daily Wire · Gates · CFR · Bilderberg · WEF · more</div>
 </div>
 
 <div class="tm-card">
@@ -70,7 +70,7 @@
 ### Core rules
 
 1. Primary sources first  
-2. Clear labels: Confirmed · Supported · Contested · Unsupported  
+2. Clear labels: **True** · **Likely but Unproven** · **Contested** · **Highly Unlikely** · **False**  
 3. Evidence for and against  
 4. No doxxing, no illegal material, no speculation as fact  
 5. Contributions welcome and reviewed  
