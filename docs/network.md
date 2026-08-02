@@ -8,6 +8,10 @@ Interactive relationship graph for the early-origins scientist / funding / docum
   </div>
 </div>
 
+<noscript>
+  <p><strong>JavaScript is disabled.</strong> The interactive graph requires JS. Download the CSVs or GraphML below and open them in Gephi, Cosmograph, or any graph tool.</p>
+</noscript>
+
 <p style="font-size: 0.85rem; color: var(--md-default-fg-color--light); margin-top: -0.5rem;">Drag nodes · Scroll to zoom · Click a node or edge for details.</p>
 
 **Data files:**
@@ -35,7 +39,15 @@ For publication-ready static images or deeper layout work:
 3. Run a layout (ForceAtlas2, Fruchterman-Reingold, or Kamada-Kawai).  
 4. Export as PNG or SVG for reports, README, or slides.
 
-The interactive view above is the live exploration surface. The GraphML + CSVs are the durable export layer for static publication layouts.
+---
+
+## Static fallback (V3)
+
+If the interactive graph fails to load (JS blocked, CDN issue, or offline):
+
+- **Data still works:** The node/edge CSVs and GraphML linked above can be opened in Gephi or any graph tool with no dependency on this page.  
+- **Pre-rendered static layouts:** Force-directed and Kamada-Kawai PNG exports of the same network are maintained in the project knowledge base (`graphs/static/network-v2-spring.png`, `network-v2-kamada-kawai.png`). They can be added to reports or README when binary assets are published.  
+- The page remains useful as a documented index of relationships even when the widget is unavailable.
 
 ---
 

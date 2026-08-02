@@ -4,6 +4,10 @@ Interactive geographic view of key locations tied to the COVID origins knowledge
 
 <div id="truth-map" style="height: 620px; width: 100%; border-radius: 8px; border: 1px solid var(--md-default-fg-color--lightest); margin: 1.2rem 0; z-index: 1;"></div>
 
+<noscript>
+  <p><strong>JavaScript is disabled.</strong> The interactive map requires JS. Use the data file and Kepler path below for a full interactive view, or open the CSV in any mapping tool.</p>
+</noscript>
+
 <div style="display: flex; flex-wrap: wrap; gap: 1rem; margin-bottom: 1.5rem; font-size: 0.9rem;">
   <span><span style="display:inline-block;width:14px;height:14px;border-radius:50%;background:#c62828;margin-right:6px;vertical-align:middle;"></span> COVID Core</span>
   <span><span style="display:inline-block;width:14px;height:14px;border-radius:50%;background:#1565c0;margin-right:6px;vertical-align:middle;"></span> High-Containment Labs</span>
@@ -15,7 +19,7 @@ Interactive geographic view of key locations tied to the COVID origins knowledge
 
 ## Time-enabled exploration (Kepler.gl)
 
-The overview map above is a static Leaflet view. For **full layer control and a working time slider**:
+The overview map above is a Leaflet view. For **full layer control and a working time slider**:
 
 1. Open **[kepler.gl/demo](https://kepler.gl/demo)** in a new tab  
 2. Click **“Get Started”** → **“Upload data”** (or drag-and-drop)  
@@ -29,6 +33,16 @@ The overview map above is a static Leaflet view. For **full layer control and a 
 5. You can now scrub the timeline, filter by layer group, and explore the full point set
 
 The CSV already contains a proper `date` column and the project’s Kepler config defines a `timeRange` filter. The steps above simply expose that capability in the live Kepler interface.
+
+---
+
+## Static fallback (V3)
+
+If the interactive map fails to load (JS blocked, CDN issue, or offline):
+
+- **Data still works:** Download [`covid-origins-layered-v7.csv`](https://raw.githubusercontent.com/Truth-Map/truth-map/main/maps/covid-origins-layered-v7.csv) and open it in Kepler.gl, QGIS, Google My Maps, or any tool that accepts lat/lng CSV.  
+- **Static overview image:** A publication-ready static overview of the same point set is maintained in the project knowledge base (`graphs/static/map-v7-static-overview.png`). It can be added to reports or README when binary assets are published.  
+- The page remains useful as a documented index of key locations even when the map widget is unavailable.
 
 ---
 
