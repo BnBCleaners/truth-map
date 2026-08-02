@@ -23,6 +23,10 @@ Several senators faced DOJ/SEC inquiry over trades around closed pandemic briefi
 
 **Tuberville (2021):** ~130 trades, ~$894k–$3.56M range, some PTRs up to ~6 months late; COVID-sensitive names while on HELP. Late filing **True**; illegal insider trading **not established**.
 
+### 2026 reform development (True)
+
+On 22 July 2026 the House advanced the Stop Insider Trading Act (H.R. 7008) by a 231–198 vote. The bill would prohibit Members, spouses, and dependent children from purchasing publicly traded stocks while in office, require advance public notice of certain sales, and increase disclosure-violation penalties. As of the last check the bill had not been enacted; Senate disposition remains open.
+
 ## Labels
 
 | Content | Label |
@@ -31,6 +35,7 @@ Several senators faced DOJ/SEC inquiry over trades around closed pandemic briefi
 | Late filings occur; formal penalties rare | **True** |
 | Systematic use of non-public info for edge | **Contested** |
 | Abnormal returns alone prove illegal insider trading | **False** as a rule (P2) |
+| House advancement of H.R. 7008 (22 Jul 2026) | **True** (enactment still open) |
 
 ## Related Claims
 
