@@ -71,6 +71,12 @@ Tight factual propositions with one primary confidence label each. Complex subje
 </div>
 
 <div class="tm-card">
+  <h3><a href="C-13-adrenochrome-elite-harvest/">C-13 — Adrenochrome elite-harvest</a></h3>
+  <p>Chemistry True; elite child-harvest narrative Unsupported.</p>
+  <div class="meta"><span class="badge badge-true">True</span> chemistry · <span class="badge badge-false">Unsupported</span> harvest claim</div>
+</div>
+
+<div class="tm-card">
   <h3><a href="C-14-uranium-one-clinton/">C-14 — Uranium One / Clinton Foundation</a></h3>
   <p>Rosatom acquisition, CFIUS process, donations & $500k speech (True); strong quid-pro-quo framing (Contested).</p>
   <div class="meta"><span class="badge badge-contested">Contested</span> on causal claim · underlying facts <span class="badge badge-true">True</span></div>

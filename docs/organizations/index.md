@@ -5,6 +5,7 @@ Non-state organizations tracked because an active Case, Claim, or Angle requires
 <div class="tm-card-grid">
 
 <div class="tm-card"><h3><a href="gates-foundation/">Gates Foundation</a></h3><p>Major WHO funder; CEPI co-founder; media grants. Structural influence Supported; control Contested.</p></div>
+<div class="tm-card"><h3><a href="clinton-foundations/">Clinton Foundations</a></h3><p>Bill, Hillary & Chelsea Clinton Foundation; foreign donors during State tenure True; pay-to-play claims Contested.</p></div>
 <div class="tm-card"><h3><a href="daily-wire/">The Daily Wire</a></h3><p>For-profit conservative media; $4.7M Wilks seed (True); Owens & Crowder intersections.</p></div>
 <div class="tm-card"><h3><a href="cfr/">Council on Foreign Relations</a></h3><p>Elite foreign-policy forum.</p></div>
 <div class="tm-card"><h3><a href="bilderberg/">Bilderberg</a></h3><p>Annual private conference of political, business, and media figures.</p></div>
