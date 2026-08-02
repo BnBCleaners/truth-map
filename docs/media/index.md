@@ -28,6 +28,12 @@ Documented historical CIA–media relationships, ownership concentration, and mo
   <p>Government–platform contacts True; laptop-story suppression True; equivalence to classic Mockingbird Contested.</p>
 </div>
 
+<div class="tm-card">
+  <h3><a href="online-influencers/">Online Influencers</a></h3>
+  <span class="badge badge-primary">Narrative Tracking</span>
+  <p>Owens · Rogan · Carlson — stance changes, institutional exits, funding signals. Inclusion threshold locked.</p>
+</div>
+
 </div>
 
 **Working rules:** Primary sources first. Strong framings recorded and labeled. No membership dumps.
