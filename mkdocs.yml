@@ -43,6 +43,7 @@ nav:
   - Home: index.md
   - How this works:
     - Purpose & Rules: about/purpose.md
+    - What is locked: about/what-is-locked.md
     - Architecture: about/architecture.md
     - How to contribute: about/contributing.md
     - Gatekeeping & Moderation: about/gatekeeping.md
@@ -53,6 +54,7 @@ nav:
     - Hunter Biden Laptop: topics/hunter-biden-laptop.md
     - Unchecked / Illegal Immigration: topics/unchecked-illegal-immigration.md
     - Media Influence: topics/media-influence.md
+    - QAnon: topics/qanon.md
   - Claims:
     - Overview: claims/index.md
     - Laptop = Russian disinfo: claims/C-01-laptop-russian-disinfo.md
@@ -61,6 +63,8 @@ nav:
     - Mockingbird never ended: claims/C-11-mockingbird-never-ended.md
     - Lab-leak framing: claims/C-02-lab-leak-is-conspiracy-theory.md
     - GOF funding at WIV: claims/C-03-no-gain-of-function-at-wiv.md
+    - Pizzagate / Comet trafficking: claims/C-12-pizzagate-comet-trafficking.md
+    - Adrenochrome elite-harvest: claims/C-13-adrenochrome-elite-harvest.md
   - Cases:
     - Overview: cases/index.md
     - Unchecked / Illegal Immigration: cases/unchecked-illegal-immigration.md
@@ -81,6 +85,7 @@ nav:
     - Fauci GOF Testimony (2021): cases/fauci-gof-testimony.md
   - People:
     - Overview: people/index.md
+    - Bill Gates: people/bill-gates.md
     - Elon Musk: people/elon-musk.md
     - Jeremy Farrar: people/jeremy-farrar.md
     - Peter Daszak: people/peter-daszak.md
@@ -98,6 +103,7 @@ nav:
     - C.L. Sulzberger: people/c-l-sulzberger.md
   - Organizations:
     - Overview: organizations/index.md
+    - Gates Foundation: organizations/gates-foundation.md
     - Council on Foreign Relations: organizations/cfr.md
     - Bilderberg: organizations/bilderberg.md
     - World Economic Forum: organizations/wef.md
