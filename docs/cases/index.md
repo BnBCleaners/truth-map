@@ -17,6 +17,12 @@ Event reconstructions with timelines, actors, and primary sources.
 </div>
 
 <div class="tm-card">
+  <h3><a href="epstein-sex-trafficking-network/">Epstein Sex-Trafficking Network</a></h3>
+  <span class="badge badge-primary">Documented Core</span>
+  <p>Core trafficking facts True; client-list & intelligence claims Contested; 2025–2026 DOJ releases.</p>
+</div>
+
+<div class="tm-card">
   <h3><a href="tesla/">Tesla</a></h3>
   <span class="badge badge-primary">Company Case</span>
   <p>Structure, government incentives, FSD/Optimus (~85%).</p>
