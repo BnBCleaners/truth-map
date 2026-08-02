@@ -13,6 +13,7 @@ Interactive relationship graph for the early-origins scientist / funding / docum
 **Data files:**
 - [`graphs/covid-network-v2-nodes.csv`](https://github.com/Truth-Map/truth-map/blob/main/graphs/covid-network-v2-nodes.csv)
 - [`graphs/covid-network-v2-edges.csv`](https://github.com/Truth-Map/truth-map/blob/main/graphs/covid-network-v2-edges.csv)
+- [`graphs/covid-network-v2.graphml`](https://github.com/Truth-Map/truth-map/blob/main/graphs/covid-network-v2.graphml) (Gephi / yEd / Cytoscape ready)
 
 ### What the edges capture
 - Funding relationships (NIH → EcoHealth → WIV)
@@ -21,8 +22,20 @@ Interactive relationship graph for the early-origins scientist / funding / docum
 - Diary documentation links
 - Lancet letter organization
 - Later document releases (Gabbard / DNI materials)
+- 51-letter organizing cluster
 
-Load the CSVs into Cosmograph, Gephi, or any graph tool that accepts node/edge tables for deeper analysis.
+---
+
+## Static layouts & Gephi export (V2)
+
+For publication-ready static images or deeper layout work:
+
+1. Download the node and edge CSVs (or the GraphML file) linked above.  
+2. Open in **[Gephi](https://gephi.org/)** (File → Open → select the `.graphml` or import the two CSVs as nodes + edges).  
+3. Run a layout (ForceAtlas2, Fruchterman-Reingold, or Kamada-Kawai).  
+4. Export as PNG or SVG for reports, README, or slides.
+
+The interactive view above is the live exploration surface. The GraphML + CSVs are the durable export layer for static publication layouts.
 
 ---
 
@@ -33,8 +46,6 @@ Load the CSVs into Cosmograph, Gephi, or any graph tool that accepts node/edge t
   var statusEl = document.getElementById('truth-network-status');
   var container = document.getElementById('truth-network');
   if (!container) return;
-
-  // Prevent double-init
   if (container.dataset.initialized === '1') return;
   container.dataset.initialized = '1';
 
@@ -162,15 +173,9 @@ Load the CSVs into Cosmograph, Gephi, or any graph tool that accepts node/edge t
         }
       };
 
-      // Clear the loading text
       if (statusEl) statusEl.remove();
-
       var network = new vis.Network(container, { nodes: nodes, edges: edges }, options);
-
-      // Optional: after settle, keep physics mild
-      network.once('stabilizationIterationsDone', function () {
-        // leave enabled so user can still drag comfortably
-      });
+      network.once('stabilizationIterationsDone', function () {});
 
     } catch (err) {
       console.error('Truth Map network error:', err);
@@ -178,7 +183,6 @@ Load the CSVs into Cosmograph, Gephi, or any graph tool that accepts node/edge t
     }
   }
 
-  // Wait for the library (retry a few times)
   var attempts = 0;
   function tryInit() {
     attempts += 1;
@@ -191,7 +195,6 @@ Load the CSVs into Cosmograph, Gephi, or any graph tool that accepts node/edge t
     }
   }
 
-  // Start after a short delay so the external script has a chance
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', function () { setTimeout(tryInit, 50); });
   } else {
