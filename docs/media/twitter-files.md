@@ -1,76 +1,64 @@
 # Twitter Files / Modern Platforms — Evidence Package
 
-**Status:** Expanded detail pass  
-**Label summary:** Government–platform contacts **True** · Laptop-story suppression **True** · Visibility filtering tools **True** · Equivalence to classic Mockingbird **Contested**
+**Status:** Expanded detail pass + FBI briefings deep-dive  
+**Label summary:** Government–platform contacts **True** · Laptop suppression **True** · FBI hack-and-leak briefings **True** · Briefing→block causation **Contested** · Mockingbird equivalence **Contested**
 
 ---
 
 ## What the Twitter Files are
 
-Internal Twitter documents (emails, Slack, moderation tools, policy notes) released beginning **December 2022** after Elon Musk’s acquisition. Journalists given access: Matt Taibbi, Bari Weiss, Michael Shellenberger, Lee Fang, David Zweig, and others. Followed by House Weaponization Subcommittee testimony (notably 9 Mar 2023).
+Internal Twitter documents released beginning December 2022 after Elon Musk’s acquisition. Journalists: Matt Taibbi, Bari Weiss, Michael Shellenberger, Lee Fang, David Zweig, and others. House Weaponization testimony followed (notably 9 Mar 2023).
 
 ---
 
-## Major documented findings
+## FBI “hack-and-leak” briefings (pre-Oct 2020)
 
-### 1. Hunter Biden laptop story (Oct 2020)
-
-| Fact | Label |
-|------|-------|
-| *NY Post* article blocked from sharing (including DMs) under “hacked materials” policy | **True** |
-| Internal Trust & Safety debate documented; decision went ahead | **True** |
-| No public proof at the time that the laptop was a foreign “hack”; later authenticated | **True** on sequence |
-| FBI pre-election briefings on expected “hack-and-leak” operations | Briefings **True**; direct causation of the block **Contested** |
-| 51 former intel officials’ letter used as institutional weight | See [C-01](../claims/C-01-laptop-russian-disinfo/) (False) · [C-04](../claims/C-04-51-letter-expert-opinion/) (False) |
-
-### 2. Government–platform request channels
+Regular FBI Foreign Influence Task Force (FITF) engagement with major platforms in 2020 is documented in sworn declarations, depositions, internal company notes, and congressional investigation materials.
 
 | Fact | Label |
 |------|-------|
-| Formal and informal flagging channels from government entities | **True** |
-| Agencies in files/testimony: **FBI**, **DHS** (incl. CISA-related flows), **HHS**, State/GEC, DoD, broader IC references | **True** on contacts |
-| High volume of government + NGO “misinformation” reports 2020–2022 | **True** |
-| Long-running FBI–Twitter relationship (meetings + request volume) | **True** |
-| Compensation related to legal process / data requests | Payments **True**; framing Contested |
+| FBI FITF held recurring bilateral and USG–Industry meetings with platforms through 2020 | **True** |
+| Platforms warned to expect a **hack-and-leak** operation before the election (often framed as Russian; late Sep/Oct timing) | **True** |
+| Framing included **Biden family / Ukraine / Burisma** as likely leak content | **True** that this framing was communicated |
+| Microsoft internal note (14 Oct 2020): FBI “tipped us all off last week that this Burisma story was likely to emerge” | **True** as contemporaneous company record |
+| FBI possessed the Hunter Biden laptop since **December 2019** | **True** |
+| Some FITF personnel who briefed platforms knew the Bureau already held the laptop | **Supported** (investigation record); full individual knowledge matrix still partial |
+| Platforms tightened “hacked materials” policies and/or ran public “inoculation” messaging | **True** |
+| Aspen Institute tabletop on Russian hack-and-leak involving Bidens/Burisma | **True** that exercise occurred |
 
-### 3. Visibility filtering / reach limits (Weiss threads)
+**Key primary anchors**
+- **Yoel Roth** (Twitter) sworn declaration (FEC MUR 7821, Dec 2020): regular meetings with FBI/ODNI/DHS; told to expect Oct hack-and-leak; rumors Hunter Biden would be a target
+- **Elvis Chan** (FBI) deposition (*Missouri v. Biden*): repeatedly informed platforms of likely hack-and-leak despite no observed intrusions at the time of the warnings
+- **Microsoft notes** (14 Oct 2020 USG–Industry meeting): FBI tip the prior week that a Burisma story was likely
 
-| Fact | Label |
-|------|-------|
-| Internal tools (“visibility filtering,” “Do Not Amplify,” search blacklists) reduced reach without public bans | **True** |
-| Documented application to journalists and commentators | **True** on examples |
-| Users often not clearly told their reach was limited | **True** as process fact |
+### Confirmed vs Contested on this Angle
 
-### 4. COVID enforcement and administration pressure
-
-| Fact | Label |
-|------|-------|
-| Expanding/contracting COVID content policies 2020–2022 | **True** |
-| White House / HHS officials flagged content and accounts | **True** on contact |
-| “Coercion” as legal conclusion | **Contested** |
-| Overlap with lab-leak narrative management | Cross-link COVID Origins Topic · C-02 |
-
-### 5. Election Integrity Partnership / Virality Project
-
-Academic–NGO consortia partnered with platforms to flag election and COVID content at scale. Partnership model **True**. “Government cut-out” characterization **Contested**.
-
-### 6. Trump account suspension (Jan 2021)
-
-Internal decision sequence after Jan 6 documented in the files. Whether existing rules required the action vs. exceptional escalation was an internal dispute.
+| Proposition | Label |
+|-------------|-------|
+| FBI repeatedly warned platforms about expected hack-and-leak, including Biden/Burisma framing | **True** |
+| FBI already held the authentic laptop while giving those warnings | **True** |
+| Platforms changed policies / readiness in that environment | **True** |
+| Twitter’s block of the *NY Post* was *caused by* the FBI briefings (sole/primary cause) | **Contested** |
+| Briefings were a deliberate “prebunk” of a story the Bureau knew was genuine | **Contested** |
+| Briefings prove continuous Mockingbird-style control | **Contested** (see C-11) |
 
 ---
 
-## What remains Contested
+## Other major findings (summary)
 
-- “Censorship” as unconstitutional state action (*Murthy v. Missouri* line)
-- Equivalence to Cold War Operation Mockingbird
-- Single coordinated narrative-management program across all platforms
-- Continuity claim ([C-11](../claims/C-11-mockingbird-never-ended/)) that modern moderation *is* Mockingbird continued
+| Theme | Label |
+|-------|-------|
+| *NY Post* laptop story blocked from sharing (incl. DMs) | **True** |
+| Visibility filtering / “Do Not Amplify” / search blacklists | **True** |
+| High-volume gov + NGO flagging 2020–22 (FBI, DHS, HHS, State/GEC, DoD) | **True** |
+| COVID content policies + White House/HHS contact | Contact **True**; coercion Contested |
+| EIP / Virality Project partnerships | Partnership **True**; cut-out Contested |
+| Trump suspension internal process (Jan 2021) | Process **True** |
 
 ---
 
 ## Cross-links
 
-[C-01](../claims/C-01-laptop-russian-disinfo/) · [C-04](../claims/C-04-51-letter-expert-opinion/) · [C-11](../claims/C-11-mockingbird-never-ended/) · [Project Mockingbird Case](../cases/project-mockingbird/) · [X Corp Case](../cases/x-corp/) · [Media Influence Topic](../topics/media-influence/)
+[C-01](../claims/C-01-laptop-russian-disinfo/) · [C-04](../claims/C-04-51-letter-expert-opinion/) · [C-11](../claims/C-11-mockingbird-never-ended/) · [Project Mockingbird](../cases/project-mockingbird/) · [X Corp](../cases/x-corp/) · [Media Influence Topic](../topics/media-influence/)
 
-**Sources:** Twitter Files threads (Taibbi, Weiss, Shellenberger et al.); House Weaponization testimony (Mar 2023).
+**Sources:** Twitter Files threads; Roth FEC declaration; Chan deposition; House Judiciary “FBI Election Interference” report (Oct 2024) and exhibits; Weaponization testimony.
