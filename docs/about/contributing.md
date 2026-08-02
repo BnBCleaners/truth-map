@@ -35,8 +35,11 @@ Fork the repository, make a focused change that follows the existing card style,
 - Clear labels on every claim
 - Evidence for **and** against
 - No doxxing, no illegal material, no speculation presented as fact
+- **No graphic abuse media** — text-only on sensitive topics; this is not a place to host or mirror traumatic imagery
 
 Submissions are reviewed against these rules. Accepted material is integrated into the official files. Rejected material is closed with a short public explanation.
+
+If your goal is verifiable research, you are in the right place. If your goal is spectacle, targeting, or prohibited content, you are not.
 
 You and the maintainers remain the quality gatekeepers. No one writes directly into the official record without review.
 
