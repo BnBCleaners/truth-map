@@ -56,6 +56,12 @@
   <div class="meta">Leaflet · vis-network</div>
 </div>
 
+<div class="tm-card">
+  <h3><a href="about/contributing/">Contribute</a></h3>
+  <p>Start a Restricted Grok Session or open a GitHub Issue. Everything is reviewed before it becomes official.</p>
+  <div class="meta">Grok session · Issues · anonymous OK</div>
+</div>
+
 </div>
 
 ---

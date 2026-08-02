@@ -30,6 +30,18 @@ Everything Grok produces is a **proposal only**. The gatekeeper still reviews it
 
 ---
 
+## What happens after you submit
+
+1. You (or Grok) produce a clean proposal package.
+2. You paste it into a GitHub Issue, email, or message.
+3. A maintainer reviews it against the project rules (primary sources, labels, evidence for and against).
+4. If it meets the standard, it is integrated into the official knowledge base and, when appropriate, the public site.
+5. If it does not meet the standard, the Issue is closed with a short public explanation.
+
+Nothing enters the official record automatically. Review is required every time. Anonymous contribution is fully supported.
+
+---
+
 ## Alternative: GitHub Issues
 
 Open a new Issue on the **Truth-Map** repository:
