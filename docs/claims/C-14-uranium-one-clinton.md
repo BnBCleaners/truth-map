@@ -3,22 +3,31 @@
 **Claim ID:** C-14  
 **Title:** Uranium One – Rosatom acquisition, CFIUS review, and related Clinton Foundation / speaking-fee flows  
 **Status:** Documented facts locked; causal quid-pro-quo framing Contested  
-**Last updated:** 2026-08-01
+**Last updated:** 2026-08-03
 
 ---
 
 ## Core documented facts (True)
 
+**Clean timeline**
+
+| Date / Period | Event |
+|---------------|-------|
+| 2005–2007 | Frank Giustra major contributions/pledges ($31.3M + $100M pledge). Bulk of the frequently cited ~$145M figure. Pre-dates any Russian interest in Uranium One. |
+| 2009–2010 | Ian Telfer (Uranium One chairman) family foundation ~$2.35M total (portions during relevant period; some via Canadian vehicle). |
+| 8 June 2010 | Uranium One announces ARMZ/Rosatom agreement for ≥51%. |
+| 29 June 2010 | Bill Clinton $500,000 Moscow speech paid by Renaissance Capital. |
+| 2010 (CFIUS Case 10-40) | Multi-agency review. State Department is a member agency. Certified to Congress 22 Oct 2010 (no unresolved national-security concerns). Unanimous among members. Only the President holds veto power. |
+| Hillary’s role | Secretary of State. Did not sit on CFIUS. State representative stated she was not involved; she has stated the same. |
+
+**Additional locked facts**
+
 | Fact | Detail |
 |------|--------|
 | Company & asset | Uranium One was a Canadian-based mining company with uranium assets, including in the United States. |
 | Acquirer | Rosatom (Russian state nuclear corporation), acting through its mining arm, acquired a controlling interest in a multi-step process (key announcement 2010; further steps through ~2013). |
-| U.S. national-security review | Because of U.S. mining assets, the transaction was reviewed by the Committee on Foreign Investment in the United States (CFIUS). |
+| U.S. national-security review | Because of U.S. mining assets, the transaction was reviewed by CFIUS. |
 | CFIUS outcome | Multi-agency committee (including State Department) did not block the transaction; reporting describes the approval as unanimous among members. Only the President holds veto power. |
-| Hillary Clinton’s personal role | Clinton was Secretary of State; the State Department was a CFIUS member. She did not personally sit on CFIUS. State Department representative stated she was not involved. Clinton has said she was not personally involved. |
-| Frank Giustra donations | Mining financier Frank Giustra donated large sums to the Clinton Foundation / related vehicles (commonly cited figures include $31.3 million and a $100 million pledge). The bulk of this giving occurred in 2005–2007, before the Rosatom acquisition of Uranium One was on the table. |
-| Ian Telfer / family foundation | Uranium One chairman Ian Telfer’s family foundation donated $2.35 million. These contributions were not disclosed by the Clinton Foundation at the time under the interpretation applied to the Canadian vehicle. |
-| Bill Clinton Moscow speech | 29 June 2010: Renaissance Capital (Russian investment bank) paid Bill Clinton $500,000 for a speech in Moscow, shortly after the Rosatom / Uranium One deal was announced. |
 
 ---
 
