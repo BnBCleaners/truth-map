@@ -1,10 +1,10 @@
 # Hillary Clinton (Hillary Rodham Clinton)
 
 **First Lady (1993–2001) · U.S. Senator (NY, 2001–2009) · 67th Secretary of State (2009–2013) · 2016 Democratic presidential nominee**  
-**Completeness:** Lev1 foundation (~30%)  
-**Last updated:** 2026-08-01
+**Completeness:** Lev1 foundation (locked 2026-08-03)  
+**Last updated:** 2026-08-03
 
-**Why included:** Highest-level executive and legislative roles; central figure in Clinton Foundation donor controversies during her State Department tenure; key node in elite political and philanthropic networks.
+**Why included:** Highest-level executive and legislative roles; central figure in Clinton Foundation donor controversies during her State Department tenure; key node in elite political and philanthropic networks. Tracked as a parallel branch because the Foundation/State overlap and Uranium One claim set (C-14) form a self-contained cluster independent of the COVID-origins network.
 
 ---
 
@@ -14,19 +14,30 @@
 |------|------|
 | Born | 26 October 1947, Chicago, Illinois |
 | First Lady | 1993–2001 |
-| U.S. Senate (New York) | 2001–2009 |
+| U.S. Senate (New York) | 3 January 2001 – 21 January 2009 |
 | Secretary of State | 21 January 2009 – 1 February 2013 |
 | 2016 presidential campaign | Democratic nominee |
 | Marriage | Bill Clinton (1975–present) |
+
+Sources: Biographical Directory of the U.S. Congress; Senate roll-call vote 111-1-6 (21 Jan 2009); U.S. Department of State Office of the Historian.
 
 ---
 
 ## Clinton Foundation / State Department intersection
 
-- During her tenure as Secretary of State, the Clinton Foundation continued to accept large donations, including from foreign governments and entities.  
-- This overlap generated sustained controversy concerning potential conflicts of interest, donor access, and screening arrangements.  
-- Existence of foreign donations while she was Secretary of State → **True**.  
-- Causal claims that specific donations purchased specific policy outcomes → start as **Contested** unless strong primary evidence of the exchange is established.
+**2008 Ethics MOU (True)**  
+December 2008 agreement between the Obama transition (Valerie Jarrett) and the Clinton Foundation (Bruce Lindsey). Existing foreign-government donors could continue at prior levels. New foreign-government donors or material increases required submission to the State Department designated agency ethics official for review.
+
+**Foreign-government donations during tenure (True)**  
+The Foundation accepted contributions from multiple foreign governments while Hillary Clinton was Secretary of State.
+
+**Documented compliance shortfalls**  
+- **Algeria — $500,000 (2010)**: Unsolicited donation for Haiti earthquake relief. New donor. Foundation later acknowledged it was not formally submitted for the required State ethics review.  
+- **Qatar — $1 million (accepted ~2012)**: Foundation confirmed acceptance. State Department had no record of the required notification.
+
+**Labels**  
+- Existence of foreign-government donations during tenure → **True**  
+- Specific donation → specific policy outcome (“pay-to-play”) → **Contested**
 
 See also: [C-14 Uranium One Claim](../claims/C-14-uranium-one-clinton/)
 
@@ -34,15 +45,18 @@ See also: [C-14 Uranium One Claim](../claims/C-14-uranium-one-clinton/)
 
 ## Association with Epstein network
 
-- Far less direct documentary footprint than Bill Clinton’s flight-log record.  
-- No primary flight-log evidence placing Hillary Clinton on Epstein’s aircraft or island in the materials reviewed.  
-- Social proximity claims in secondary reporting require primary support before elevation.
+No primary flight-log evidence, passenger manifest, or island visitor record placing Hillary Clinton on Epstein’s aircraft or on Little St. James has been located in the materials reviewed. Far less direct documentary footprint than Bill Clinton’s documented flight-log record.
 
-**Label:** No primary evidence of the same flight or island association documented for Bill Clinton. Stronger claims remain **Unsupported** or **Contested** pending primary documentation.
+Social-proximity claims in secondary reporting require primary support before elevation.
+
+**Label:** **Unsupported** (no primary flight or island association of the type documented for Bill Clinton).
+
+Cross-links: [Bill Clinton](../people/bill-clinton/) · [Epstein sex-trafficking network case](../cases/epstein-sex-trafficking-network/)
 
 ---
 
 ## Label summary
 
 - Core biography and foundation/State overlap existence → **True**  
-- Causal donor influence and Epstein operational links → Contested or Unsupported on current primary record
+- Causal donor influence → **Contested**  
+- Epstein operational / flight / island links → **Unsupported**
