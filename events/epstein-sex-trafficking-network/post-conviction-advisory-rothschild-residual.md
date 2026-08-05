@@ -5,6 +5,8 @@
 **Parent Case:** [Epstein Sex-Trafficking Network](../../docs/cases/epstein-sex-trafficking-network.md)  
 **Method:** Network Analysis + Layered Assessment + incentives-first prior  
 **Completeness:** High on primary financial & correspondence anchors; closed for intelligence elevation  
+**Last updated:** 2026-08-04  
+**Evidence window / As-of:** DOJ EFTA releases + contemporaneous primary documents through early 2019
 
 ---
 
@@ -18,41 +20,46 @@ After his 2008 Florida conviction, Jeffrey Epstein provided paid strategic and p
 
 | Node | Role in residual | Primary basis |
 |------|------------------|---------------|
-| Jeffrey Epstein / Southern Trust Company, Inc. (USVI) | Advisor; fee recipient; sole shareholder/president of STC | Letter of Agreement 5 Oct 2015; wires; invoices |
-| Ariane de Rothschild | Principal counterpart; signed agreements; multi-year correspondent | Signed Letter of Agreement; extensive email traffic 2013–2019 |
-| Edmond de Rothschild Holding, S.A. / Edmond de Rothschild (Suisse) SA | Paying entity; DOJ non-prosecution agreement counterparty | 5 Oct 2015 agreement; 18 Dec 2015 DOJ NPA (~$45.2 M) |
-| Kathy Ruemmler | Legal counsel on the U.S. regulatory matter for the bank side; coordinated via Epstein | Contemporaneous settlement traffic and later bank-related correspondence |
-| Olivier Colom | Early intermediary (corporate secretary) | Initial 2013 contact channel |
-| Benjamin de Rothschild | Subject of internal governance discussions | 2014–2015 email traffic |
+| Jeffrey Epstein / Southern Trust Company, Inc. (USVI) | Advisor; fee recipient; sole shareholder/president of STC | Letter of Agreement 5 Oct 2015 (EFTA00584898 / EFTA00584904); Nov 2015 follow-on; Dec 2015 wires; multi-year email traffic |
+| Ariane de Rothschild | Principal counterpart; signed agreements; multi-year correspondent (business + personal/governance counsel) | Signed Letter of Agreement; extensive 2013–2019 email traffic; bank statement that meetings occurred “as part of her normal duties” 2013–2019 |
+| Edmond de Rothschild Holding, S.A. / Edmond de Rothschild (Suisse) SA | Paying entity; DOJ non-prosecution agreement counterparty | 5 Oct 2015 agreement; 18 Dec 2015 DOJ NPA (~$45.2 M); wire records |
+| Kathy Ruemmler | Legal counsel on the bank’s U.S. regulatory matter; coordinated with Epstein on strategy and fee structure; proposed privilege-preserving consulting structure | Contemporaneous settlement email traffic (including fee contingency discussion and privilege note); later bank-related correspondence |
+| Olivier Colom | Early intermediary / corporate secretary channel that opened contact in 2013 | Initial 2013 introduction and contact traffic |
+| Benjamin de Rothschild | Subject of internal governance, board, and operational-control discussions; health/addiction references appear in traffic | 2014–2015 email traffic (including succession/transfer of operational control) |
 
 ---
 
 ## 2013–2019 Timeline (primary anchors)
 
 **2013**  
-- Contact channel opens via Olivier Colom.  
-- Personal-domain email traffic begins. Early advisory on personal, health, estate, and preliminary bank matters.
+- Contact channel opens via Olivier Colom (corporate secretary).  
+- Introduction occurs mid-year (June timeframe in contemporaneous accounts). Personal-domain email traffic begins. Early advisory on personal, health, estate, and preliminary bank matters. Epstein offers thoughts; Ariane responds appreciatively.  
+- Example early traffic (Oct 2013): Epstein discusses health regimen, estate-planning questions for high-profile family wealth, family-protection needs, and confidentiality.
 
 **2014**  
 - Ongoing correspondence.  
 - Discussions of Benjamin de Rothschild’s board/operational roles and Ariane’s expanding authority.  
-- Continued personal counsel (health, security, family).
+- Continued personal counsel (health, security, family). Epstein frames some assistance as non-financial (“I expect no, nor do I want any financial relationship… to repay a deep debt that i feel I owe to edmonde”).  
+- Governance traffic continues into late year (Benjamin succession / operational hand-off discussions).
 
 **2015 (core cluster)**  
-- Spring–summer: Strategy traffic on internal governance and external options. Contingency fee language appears (lower DOJ penalty → higher Southern Trust fee, up to $25 M).  
-- **5 October 2015**: Letter of Agreement (EFTA00584898 / EFTA00584904). Southern Trust engaged for continued collaboration on “Specified Matters” / EDRH Matters with the United States. Fee: **$25,000,000**, payable within three days after EDRH’s payment to U.S. authorities. Expense reimbursement + confidentiality.  
+- Early year: Ariane assumes expanded operational leadership (president of executive committee, Jan 2015). Emails reflect stress of the role and internal family/bank dynamics.  
+- Spring: Strategy traffic on internal governance and external options. Epstein suggests proactive strategy for family, bank, and Benjamin (including custodianship-motion language in one April exchange). Contingency-fee language appears (lower DOJ penalty → higher Southern Trust fee, up to $25 M).  
+- **5 October 2015**: Letter of Agreement (EFTA00584898 / EFTA00584904). Southern Trust engaged for continued collaboration on “Specified Matters” / EDRH Matters with the United States (risk analysis and algorithms language). Fee: **$25,000,000**, payable within three days after EDRH’s payment to U.S. authorities. Expense reimbursement + confidentiality. Signed by Ariane de Rothschild.  
 - **3 November 2015**: Follow-on agreement / invoice (EFTA00586695) referencing additional **$15,000,000** (estate-planning / strategic business matters language).  
+- Mid–late Dec: “45 mio?” exchange. Epstein frames package as bank payment ~$45.5 M + ~$10 M legal fees + $25 M to him = “all less than 80 pretty good.” Ariane replies with thanks.  
 - **17–21 December 2015**: Wires totaling $25 M from Rothschild entities to Southern Trust.  
-- **18 December 2015**: DOJ announces non-prosecution agreement with Edmond de Rothschild (Suisse) under the Swiss Bank Program (~$45.2 M). Epstein contemporaneous note frames the overall package as “all less than 80 [million] pretty good.”
+- **18 December 2015**: DOJ announces non-prosecution agreement with Edmond de Rothschild (Suisse) under the Swiss Bank Program (~$45.2 M).  
 
 **2016–2018**  
-- Continued advisory: internal restructuring suggestions, potential strategic approaches (UBS, Rockefeller & Co., Julius Baer references), senior-hire ideas, personal health and security counsel.  
+- Continued advisory: internal restructuring suggestions, potential strategic approaches (references to UBS, Rockefeller & Co., Julius Baer appear in traffic), senior-hire ideas, personal health and security counsel.  
 - Ruemmler remains in legal coordination orbit on certain bank exposures.  
-- Smaller ancillary billings appear in secondary reporting of the files; dominant documented package remains the 2015 fees.
+- Smaller ancillary billings appear in secondary reporting of the files; dominant documented package remains the 2015 fees.  
+- Relationship continues as mix of formal “risk analysis / Specified Matters” language + extensive personal and governance counsel.
 
 **2019**  
 - Contacts continue into early year (example: March Paris availability exchange).  
-- Residual ends with Epstein’s July 2019 arrest.
+- Residual ends with Epstein’s July 2019 arrest. Bank later stated meetings occurred as part of normal duties 2013–2019 and that Ariane de Rothschild had no knowledge of Epstein’s personal behavior.
 
 ---
 
@@ -92,4 +99,4 @@ The bank faced concrete U.S. criminal exposure under the Swiss Bank Program plus
 - No new Full entity cards opened.  
 - No intelligence claims elevated without primary evidence.
 
-**Residual status:** Documented and filed. Ready for clean-hold or next direction.
+**Residual status:** Documented and filed. Expanded Who’s Who + timeline on primary anchors 2026-08-04. Ready for clean-hold or next direction.
