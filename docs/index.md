@@ -51,9 +51,9 @@
 </div>
 
 <div class="tm-card">
-  <h3><a href="timeline/">Timeline</a></h3>
-  <p>COVID Origins chronological spine (not a site-wide master timeline).</p>
-  <div class="meta">EcoHealth–WIV · Fauci diary window · declass releases</div>
+  <h3><a href="timeline/">Timeline Hub</a></h3>
+  <p>Module chronological spines — Origins, Epstein, Stock Trading, Mockingbird, and more.</p>
+  <div class="meta">Index of residual-clean timelines · No single master chronology</div>
 </div>
 
 <div class="tm-card">
