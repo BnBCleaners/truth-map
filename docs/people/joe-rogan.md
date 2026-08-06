@@ -2,8 +2,9 @@
 
 **Influencer / Long-form podcaster**  
 **Primary platforms:** *The Joe Rogan Experience* (Spotify / YouTube), comedy, UFC commentary  
-**Completeness:** Lev1 (~50%)  
-**Last updated:** 2026-08-01
+**Completeness:** Lev1  
+**Last updated:** 2026-08-05  
+**Residual status:** Core platforming + stance highlights residual-clean at current public depth. No open F1 primary hunt. Further discrete claim samples deferred under tight-surface rule.
 
 **Why included:** Extremely high reach on COVID policy, vaccine skepticism, and lab-leak discussions via long-form guests; documented platform-pressure episodes (Spotify 2021–2022); free-speech advocacy with clear overlap to Twitter Files / government–platform themes and core COVID modules. Meets high-narrative-impact threshold.
 
