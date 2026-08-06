@@ -39,6 +39,12 @@
 </div>
 
 <div class="tm-card">
+  <h3><a href="media/">Media</a></h3>
+  <p>Intelligence–media nexus, ownership concentration, and high-reach online influencers.</p>
+  <div class="meta">Online Influencers · Mockingbird · Twitter Files · Ownership</div>
+</div>
+
+<div class="tm-card">
   <h3><a href="facilities/">Facilities</a></h3>
   <p>High-containment labs — WIV and U.S. comparative nodes.</p>
   <div class="meta">WIV · USAMRIID · Galveston · NEIDL · CDC</div>
@@ -46,14 +52,14 @@
 
 <div class="tm-card">
   <h3><a href="timeline/">Timeline</a></h3>
-  <p>Chronological spine anchored on primary sources.</p>
-  <div class="meta">Early-origins · declass releases</div>
+  <p>COVID Origins chronological spine (not a site-wide master timeline).</p>
+  <div class="meta">EcoHealth–WIV · Fauci diary window · declass releases</div>
 </div>
 
 <div class="tm-card">
   <h3><a href="map/">Map & Network</a></h3>
   <p>Interactive geographic and relationship views.</p>
-  <div class="meta">Leaflet · vis-network</div>
+  <div class="meta">Leaflet · vis-network · Kepler time slider</div>
 </div>
 
 <div class="tm-card">
@@ -69,7 +75,7 @@
 ### How the layers work
 
 1. **Topics** — thematic hubs with multiple scored Angles  
-2. **Claims / Cases / People / Orgs / Facilities** — content types  
+2. **Claims / Cases / People / Orgs / Facilities / Media** — content types  
 3. **Depth** — full research mirrored from the knowledge base as pages mature  
 4. **Contribute** — [How to contribute / start a Restricted Grok Session](about/contributing/) · or [open an Issue](https://github.com/Truth-Map/truth-map/issues/new/choose)
 
