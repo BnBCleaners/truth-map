@@ -1,8 +1,9 @@
 # Hillary Clinton (Hillary Rodham Clinton)
 
 **First Lady (1993–2001) · U.S. Senator (NY, 2001–2009) · 67th Secretary of State (2009–2013) · 2016 Democratic presidential nominee**  
-**Completeness:** Lev1 foundation (locked 2026-08-03)  
-**Last updated:** 2026-08-03
+**Completeness:** Lev1 foundation  
+**Last updated:** 2026-08-05  
+**Residual status:** Core biography, Foundation/State MOU existence, Algeria & Qatar compliance shortfalls, and Epstein association status residual-clean at current public depth. Full durable 2008 ethics MOU PDF + hash remains a standing residual (parked). Precise year-by-year foreign-government donation totals 2009–2013 still incomplete.
 
 **Why included:** Highest-level executive and legislative roles; central figure in Clinton Foundation donor controversies during her State Department tenure; key node in elite political and philanthropic networks. Tracked as a parallel branch because the Foundation/State overlap and Uranium One claim set (C-14) form a self-contained cluster independent of the COVID-origins network.
 
