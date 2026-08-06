@@ -3,7 +3,9 @@
 **Claim ID:** C-03  
 **Label:** Contested / Definition-dependent (often presented in a misleading way)  
 **Status:** Active (core funding & risk claim)  
-**Completeness:** 84%
+**Completeness:** 84%  
+**Last updated:** 2026-08-05  
+**Residual status:** Core evidence package (grant records, DEFUSE, debarment, Fauci diary primary) residual-clean at current public depth. Internal NIH P3CO / 2014-pause determination memos for EcoHealth–WIV experiments remain a standing residual (listed in FOIA tracker).
 
 ---
 
