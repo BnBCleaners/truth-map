@@ -3,7 +3,9 @@
 **Claim ID:** C-02  
 **Label:** Unsupported / Misleading  
 **Status:** Active (core narrative claim)  
-**Completeness:** 82%
+**Completeness:** 82%  
+**Last updated:** 2026-08-05  
+**Residual status:** Core evidence package (Lancet letter, Fauci diary primary passages, Proximal Origin private vs public) residual-clean at current public depth. Direct proof of either specific lab incident or specific natural pathway remains absent (shared open residual across origins angles).
 
 ---
 
