@@ -1,8 +1,9 @@
 # Jeffrey Epstein
 
 **American financier and convicted sex offender**  
-**Completeness:** Lev1 foundation (~35%)  
-**Last updated:** 2026-08-01
+**Completeness:** Lev1 foundation  
+**Last updated:** 2026-08-05  
+**Residual status:** Core criminal record residual-clean. Intelligence / blackmail-system claims remain Contested (no new primary moved labels since July 2025 DOJ/FBI memo). Full ~3.5M-page Transparency Act extraction still parked.
 
 **Why included:** Core subject of the [Epstein Sex-Trafficking Network Case](../cases/epstein-sex-trafficking-network/). High public interest; extensive primary documentary record; intersections with financial networks, elite social circles, and contested intelligence claims.
 
