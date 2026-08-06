@@ -3,7 +3,8 @@
 **Claim ID:** C-09  
 **Label:** True (on pattern of late filings / rare penalties) + Likely but Unproven (on the full “inadequate” policy verdict)  
 **Parent Case:** Congressional / Executive Stock Trading  
-**Last updated:** 2026-08-02
+**Last updated:** 2026-08-05  
+**Residual status:** Documented pattern (late filings, rare penalties, no public SEC civil actions against members) residual-clean. 2026 legislation landscape locked. Enactment of any ownership-ban bill still open.
 
 ---
 
