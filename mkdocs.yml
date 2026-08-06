@@ -53,39 +53,54 @@ nav:
     - Overview: topics/index.md
     - COVID-19 Origins: topics/covid-19-origins.md
     - Hunter Biden Laptop: topics/hunter-biden-laptop.md
+    - Clinton Network: topics/clinton-network.md
     - Unchecked / Illegal Immigration: topics/unchecked-illegal-immigration.md
     - Media Influence: topics/media-influence.md
     - QAnon: topics/qanon.md
   - Claims:
     - Overview: claims/index.md
-    - Laptop = Russian disinfo: claims/C-01-laptop-russian-disinfo.md
-    - 51-letter “just expert opinion”: claims/C-04-51-letter-expert-opinion.md
-    - Manufactured Russia hoax framing: claims/C-06-manufactured-russia-hoax.md
-    - Mockingbird never ended: claims/C-11-mockingbird-never-ended.md
-    - Lab-leak framing: claims/C-02-lab-leak-is-conspiracy-theory.md
-    - GOF funding at WIV: claims/C-03-no-gain-of-function-at-wiv.md
-    - Pizzagate / Comet trafficking: claims/C-12-pizzagate-comet-trafficking.md
-    - Adrenochrome elite-harvest: claims/C-13-adrenochrome-elite-harvest.md
+    - C-01 Laptop = Russian disinfo: claims/C-01-laptop-russian-disinfo.md
+    - C-02 Lab-leak framing: claims/C-02-lab-leak-is-conspiracy-theory.md
+    - C-03 GOF funding at WIV: claims/C-03-no-gain-of-function-at-wiv.md
+    - C-04 51-letter “just expert opinion”: claims/C-04-51-letter-expert-opinion.md
+    - C-05 Newsom is Pelosi’s nephew: claims/C-05-newsom-pelosi-nephew.md
+    - C-06 Manufactured Russia-hoax framing: claims/C-06-manufactured-russia-hoax.md
+    - C-07 Pelosi household trading: claims/C-07-pelosi-household-nonpublic-info-trading.md
+    - C-08 Congress systematic trading: claims/C-08-congress-systematic-nonpublic-info-trading.md
+    - C-09 STOCK Act enforcement: claims/C-09-stock-act-enforcement-inadequate.md
+    - C-10 No aggregate edge post-STOCK: claims/C-10-post-stock-act-no-aggregate-edge.md
+    - C-11 Mockingbird never ended: claims/C-11-mockingbird-never-ended.md
+    - C-12 Pizzagate / Comet: claims/C-12-pizzagate-comet-trafficking.md
+    - C-13 Adrenochrome elite-harvest: claims/C-13-adrenochrome-elite-harvest.md
+    - C-14 Uranium One / Clinton: claims/C-14-uranium-one-clinton.md
   - Cases:
     - Overview: cases/index.md
-    - Unchecked / Illegal Immigration: cases/unchecked-illegal-immigration.md
+    - Epstein Sex-Trafficking Network: cases/epstein-sex-trafficking-network.md
+    - Congressional / Executive Stock Trading: cases/stock-trading.md
     - Project Mockingbird: cases/project-mockingbird.md
+    - Unchecked / Illegal Immigration: cases/unchecked-illegal-immigration.md
+    - Fauci Diary (2026): cases/fauci-diary.md
+    - Lancet Letter (2020): cases/lancet-letter.md
+    - Proximal Origin (2020): cases/proximal-origin.md
+    - Fauci GOF Testimony (2021): cases/fauci-gof-testimony.md
+    - Gabbard COVID / Fauci: cases/gabbard-covid-fauci.md
+    - Gabbard 2016 Election: cases/gabbard-2016-election.md
+    - Gabbard Biolabs: cases/gabbard-biolabs.md
     - Tesla: cases/tesla.md
     - SpaceX: cases/spacex.md
     - X (formerly Twitter): cases/x-corp.md
     - xAI: cases/xai.md
     - Neuralink: cases/neuralink.md
     - The Boring Company: cases/boring-company.md
-    - Gabbard COVID / Fauci (2026): cases/gabbard-covid-fauci.md
-    - Gabbard 2016 Election: cases/gabbard-2016-election.md
-    - Gabbard Biolabs: cases/gabbard-biolabs.md
-    - Stock Trading: cases/stock-trading.md
-    - Fauci Diary (2026): cases/fauci-diary.md
-    - Lancet Letter (2020): cases/lancet-letter.md
-    - Proximal Origin (2020): cases/proximal-origin.md
-    - Fauci GOF Testimony (2021): cases/fauci-gof-testimony.md
   - People:
     - Overview: people/index.md
+    - Bill Clinton: people/bill-clinton.md
+    - Hillary Clinton: people/hillary-clinton.md
+    - Jeffrey Epstein: people/jeffrey-epstein.md
+    - Ghislaine Maxwell: people/ghislaine-maxwell.md
+    - Candace Owens: people/candace-owens.md
+    - Joe Rogan: people/joe-rogan.md
+    - Tucker Carlson: people/tucker-carlson.md
     - Bill Gates: people/bill-gates.md
     - Elon Musk: people/elon-musk.md
     - Jeremy Farrar: people/jeremy-farrar.md
@@ -104,7 +119,12 @@ nav:
     - C.L. Sulzberger: people/c-l-sulzberger.md
   - Organizations:
     - Overview: organizations/index.md
+    - Clinton Foundations: organizations/clinton-foundations.md
+    - The Daily Wire: organizations/daily-wire.md
+    - Qatar Funding Overview: organizations/qatar-funding-overview.md
     - Gates Foundation: organizations/gates-foundation.md
+    - EcoHealth Alliance: organizations/ecohealth-alliance.md
+    - Wellcome Trust: organizations/wellcome-trust.md
     - Council on Foreign Relations: organizations/cfr.md
     - Bilderberg: organizations/bilderberg.md
     - World Economic Forum: organizations/wef.md
@@ -118,8 +138,11 @@ nav:
     - Freemasonry: organizations/freemasonry.md
     - Knights of Malta: organizations/knights-of-malta.md
     - Federalist Society: organizations/federalist-society.md
-    - EcoHealth Alliance: organizations/ecohealth-alliance.md
-    - Wellcome Trust: organizations/wellcome-trust.md
+  - Media:
+    - Overview: media/index.md
+    - Online Influencers: media/online-influencers.md
+    - Ownership concentration: media/ownership-concentration.md
+    - Twitter Files: media/twitter-files.md
   - Facilities:
     - Overview: facilities/index.md
     - Wuhan Institute of Virology: facilities/wuhan-institute-of-virology.md
