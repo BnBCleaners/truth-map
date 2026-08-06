@@ -1,8 +1,9 @@
 # Bill Clinton (William Jefferson Clinton)
 
 **42nd President of the United States (1993–2001)**  
-**Completeness:** Lev1 foundation (~30%)  
-**Last updated:** 2026-08-01
+**Completeness:** Lev1 foundation  
+**Last updated:** 2026-08-05  
+**Residual status:** Core biography + documented Epstein flight association residual-clean at current public depth. Island visits and criminal knowledge remain Unsupported. Deeper Foundation money and speaking-fee residuals live in the research KB.
 
 **Why included:** High-visibility former president; central figure in the Clinton Foundation network; documented social and travel association with Jeffrey Epstein (flight logs); relevance to financial-influence and Epstein-module cross-checks.
 
