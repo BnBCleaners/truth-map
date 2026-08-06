@@ -1,8 +1,9 @@
 # Ghislaine Maxwell
 
 **British former socialite; long-time associate of Jeffrey Epstein; convicted sex trafficker**  
-**Completeness:** Lev1 foundation (~40%)  
-**Last updated:** 2026-08-01
+**Completeness:** Lev1 foundation  
+**Last updated:** 2026-08-05  
+**Residual status:** Core criminal record (conviction, sentence, appeals exhaustion, operational role as found by the jury) residual-clean at current public depth. Broader intelligence / blackmail claims remain Contested. Full financial arrangements with Epstein still only partially documented.
 
 **Why included:** Highest-confidence co-conspirator in the [Epstein Sex-Trafficking Network Case](../cases/epstein-sex-trafficking-network/). Primary court record establishes her role.
 
@@ -25,7 +26,8 @@
 
 - Long-term personal and operational associate.  
 - Trial evidence established her role in recruiting, grooming, and facilitating the abuse of underage girls for Epstein.  
-- Appeared extensively in flight logs, social records, and property-related documents.
+- Appeared extensively in flight logs, social records, and property-related documents.  
+- Pilot Larry Visoski described her at trial as Epstein’s “number two” for non-business affairs (households, staff, properties, travel facilitation).
 
 ---
 
