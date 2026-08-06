@@ -3,7 +3,8 @@
 **Claim ID:** C-08  
 **Label:** Contested  
 **Parent Case:** Congressional / Executive Stock Trading  
-**Last updated:** 2026-07-31
+**Last updated:** 2026-08-05  
+**Residual status:** Appearance and volume evidence residual-clean. Primary missing link (documented specific-info → specific-trade chains at scale) remains absent. Label stays Contested.
 
 ---
 
