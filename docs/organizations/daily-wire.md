@@ -3,7 +3,8 @@
 **Type:** For-profit conservative media company  
 **Founded:** 2015  
 **Completeness:** Lev1  
-**Last updated:** 2026-08-01
+**Last updated:** 2026-08-05  
+**Residual status:** Core structure, Wilks seed, revenue mix, and Owens/Crowder intersections residual-clean at current public depth. Exact current equity percentages remain partial (not fully public).
 
 **Why included:** High-reach platform that hosted Candace Owens (2021–Mar 2024) and was party to a public 2023 contract dispute with Steven Crowder; material to Online Influencers module and funding/alignment questions around major conservative digital media.
 
