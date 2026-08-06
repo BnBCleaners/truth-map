@@ -2,7 +2,8 @@
 
 **Type:** Multi-angle Topic  
 **Status:** Active  
-**Last structural update:** July 2026
+**Last updated:** 2026-08-05  
+**Residual status:** Core angles (C-02 lab-leak framing, C-03 GOF definitional dispute) residual-clean at current public depth. Additional angles can be added when new primary warrants. Related Cases (Fauci Diary, Lancet Letter, Proximal Origin) carry their own residual lines.
 
 This is not a single claim. It is the public subject that contains multiple distinct factual questions about how SARS-CoV-2 emerged and how that question was handled. Each question is scored separately as an Angle.
 
