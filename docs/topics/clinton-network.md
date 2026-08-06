@@ -1,7 +1,8 @@
 # Topic: Clinton Network — Bill, Hillary & Foundations
 
 **Status:** Foundation locked (parallel branch)  
-**Last updated:** 2026-08-03
+**Last updated:** 2026-08-05  
+**Residual status:** Core documented facts (Foundation structure, foreign-donor window existence, MOU rules, Algeria/Qatar shortfalls, Bill Clinton Epstein flights, Uranium One underlying facts) residual-clean at current public depth. Full durable 2008 ethics MOU PDF + hash and precise year-by-year 2009–2013 foreign-government totals remain standing residuals (parked).
 
 Complex subject with multiple scored Angles. Individual Claims and entity cards carry the detailed labels. Tracked as a parallel branch independent of the COVID-origins network.
 
