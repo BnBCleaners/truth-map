@@ -151,7 +151,9 @@ nav:
     - NEIDL: facilities/neidl-boston.md
     - CDC Atlanta: facilities/cdc-atlanta-high-containment.md
     - NIAID Intramural Cluster: facilities/niaid-intramural-high-containment.md
-  - Timeline: timeline.md
+  - Timeline:
+    - Overview (Hub): timeline/index.md
+    - COVID Origins: timeline/covid-origins.md
   - Map & Network:
     - Interactive Map: map.md
     - Interactive Network: network.md
