@@ -1,4 +1,6 @@
-# Timeline (Key Events — Early Origins Focus)
+# Timeline — COVID Origins Key Events
+
+> **Scope note (2026-08):** This page is the chronological spine for the **COVID-19 Origins** module (EcoHealth–WIV grants, early 2020 scientist process, Fauci diary window, and related accountability steps). It is not a site-wide master timeline. Other modules (Epstein residual status, stock-trading reform, Clinton Network, Online Influencers, etc.) carry their own dated material on their Case / Claim / Topic pages.
 
 ## Pre-2020
 - ~2014 onward: NIH/NIAID awards EcoHealth Alliance bat-coronavirus grant (R01AI110964); subawards to WIV begin.
@@ -25,4 +27,4 @@
 - 29 Jul 2026: Senate hearing; Fauci invokes Fifth Amendment when asked about origins and the diary.
 
 ---
-Primary source for the critical 26 Jan – 1 Feb 2020 window: [Fauci Diary Case](cases/fauci-diary.md).
+**Primary source for the critical 26 Jan – 1 Feb 2020 window:** [Fauci Diary Case](cases/fauci-diary/).
