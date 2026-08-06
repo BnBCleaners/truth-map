@@ -2,7 +2,9 @@
 
 **Case ID:** EVENT-2026-FAUCI-DIARY-RELEASE  
 **Status:** Open (documents released; interpretation contested)  
-**Completeness:** 85%
+**Completeness:** 85%  
+**Last updated:** 2026-08-05  
+**Residual status:** Key primary passages and concordance residual-clean at current public depth. Full independent forensic authentication of the entire PDF set remains a standing residual (parked). No sharper criminal-liability Claim elevated without specific charging theory + primary elements.
 
 ---
 
