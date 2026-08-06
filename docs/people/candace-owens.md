@@ -2,8 +2,9 @@
 
 **Influencer / Independent commentator**  
 **Primary platforms:** YouTube (@RealCandaceO), X (@RealCandaceO), independent site/podcast  
-**Completeness:** Lev1 pilot (~55%)  
-**Last updated:** 2026-08-01
+**Completeness:** Lev1 pilot  
+**Last updated:** 2026-08-05  
+**Residual status:** Core exit + stance-change block residual-clean at current public depth. Claim audit completed (2026-08-01). No open F1 primary hunt.
 
 **Why included:** Documented major institutional exit from The Daily Wire (March 2024) coinciding with a highly visible stance shift on Israel/Gaza and related rhetoric; high narrative impact on free-speech, COVID-policy skepticism, election-integrity claims, and intelligence-trust topics already tracked in the KB. Clear before/after material for stance-change tracking.
 
