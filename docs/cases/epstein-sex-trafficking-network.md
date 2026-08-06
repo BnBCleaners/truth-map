@@ -3,7 +3,9 @@
 **Status:** Foundational (core documented facts locked; financial residuals advanced)  
 **Date Range:** mid-1990s – 2019 (core activity); 2005–2008 Florida case; 2019 federal indictment & death; 2021 Maxwell conviction; 2025–2026 major DOJ releases  
 **Primary Locations:** New York; Palm Beach, FL; Little St. James (USVI); private aircraft  
-**Completeness:** ~55% (core timeline + document inventory + Wexner 1991 Power of Attorney primary + JPMorgan SAR pattern locked; intelligence claims remain Contested)
+**Completeness:** ~55% (core timeline + document inventory + Wexner 1991 Power of Attorney primary + JPMorgan SAR pattern locked; intelligence claims remain Contested)  
+**Last updated:** 2026-08-05  
+**Residual status:** Core timeline, Wexner 1991 POA, and JPMorgan SAR pattern residual-clean at current public-primary depth. Intelligence claims portfolio (C1–C5) remains Contested — no new primary declassified material has moved any label since the July 2025 DOJ/FBI memo. Full ~3.5M-page Transparency Act corpus extraction is still a standing residual (parked).
 
 ---
 
@@ -76,4 +78,4 @@ Banking relationships and large settlements establish continued institutional bu
 - Full internal Case + supporting notes live in the research knowledge base (document inventory, financial dimension, intelligence-claims portfolio, Wexner connections, Clinton intersection, Little St. James facility card).
 - Cross-links: Bill Clinton flights (2002–2003, True), Bill Gates meetings (True), intelligence claims (all Contested).
 
-*This public page is the slim parity mirror of the internal foundational Case. Deeper extracts and primary-source tables remain in the research KB until further parity batches.*
+*This public page is the slim parity mirror of the internal foundational Case under the tight-surface rule. Deeper extracts and primary-source tables remain in the research KB until further deliberate parity batches.*
