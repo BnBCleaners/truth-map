@@ -3,7 +3,8 @@
 **Claim ID:** C-07  
 **Label:** Contested  
 **Parent Case:** Congressional / Executive Stock Trading  
-**Last updated:** 2026-07-31
+**Last updated:** 2026-08-05  
+**Residual status:** Appearance evidence (PTRs, performance narratives, copycat ecosystem) residual-clean. Primary missing link remains: no documented specific-info → specific-trade chain. F1 watch still open. Label stays Contested.
 
 ---
 
